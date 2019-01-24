@@ -9,7 +9,6 @@ resources:
 type: Video
 ---
 
-
 ## 1. Giới thiệu
 
 Hiện nay có rất nhiều nhà cung cấp dịch vụ hosting, `cloud server` khác nhau, tùy vào nền tảng phát triển mà các nhà cung cấp sử dụng những công cụ quản trị quá trình khởi tạo, quản lý và giám sát cloud server trong hệ thống của mình.<br>
