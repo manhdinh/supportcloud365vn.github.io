@@ -1,5 +1,5 @@
 ---
-date: 2019-01-24
+date: 2019-01-25
 title: Giới thiệu Nhân Hòa portal demo
 video_id: 8bgbubjM2rE
 description: Giới thiệu về portal Nhân Hòa phát triển phục vụ khởi tạo và quản trị cloud server.

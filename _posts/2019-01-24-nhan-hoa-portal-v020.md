@@ -1,5 +1,5 @@
 ---
-date: 2019-01-25
+date: 2019-01-24
 title: Nhân Hòa portal Version 0.2.0
 video_id: wlRsC43r3CQ
 description: Giới thiệu về portal Nhân Hòa portal version 0.2.0 cập nhật tính năng vận hành mới.
