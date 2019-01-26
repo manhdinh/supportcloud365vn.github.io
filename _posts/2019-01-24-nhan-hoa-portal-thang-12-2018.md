@@ -2,7 +2,7 @@
 date: 2019-01-24
 title: Portal cloud365 phiên bản 0.2.0
 video_id: wlRsC43r3CQ
-description: Giới thiệu về portal Nhân Hòa portal version 0.2.0 cập nhật tính năng vận hành mới.
+description: Giới thiệu về portal cloud365 cập nhật tính năng vận hành mới.
 categories:
   - Video
 resources:
