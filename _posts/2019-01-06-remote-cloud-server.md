@@ -13,6 +13,8 @@ Khi nhận được thông tin về cloud server đã đăng ký sử dụng c�
 
 + Bạn phải truy cập vào portal
 
+<a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
+
 ![](/images/img-remote-cloud-server/Screenshot_600.png)
 
 ## Cách 1: Tại giao diện danh sách server
@@ -52,7 +54,7 @@ Khi nhận được thông tin về cloud server đã đăng ký sử dụng c�
 Hy vọng chức năng remote cloud server giúp bạn quản trị thao tác được tuận tiện hơn.
 
 ---
-[cloud365.vn](https://cloud365.vn/)
+<a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 
 Khi cần hỗ trợ xin liên hệ với chúng tôi:
 

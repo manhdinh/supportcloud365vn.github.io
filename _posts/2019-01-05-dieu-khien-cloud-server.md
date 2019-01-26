@@ -15,6 +15,8 @@ Nhân Hòa port cung cấp cho bạn chức năng điều khiển server cho ph�
 
 + Bạn phải truy cập vào portal
 
+<a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
+
 ![](/images/img-control-cloud-server/Screenshot_600.png)
 
 ## Cách 1: Tại giao diện danh sách server
@@ -60,7 +62,7 @@ Bạn thực hiện các thao tác điều khiển khác tương tự.
 Hy vọng chức năng điều khiển cloud server giúp bạn quản trị thao tác được tuận tiện hơn.
 
 ---
-[cloud365.vn](https://cloud365.vn/)
+<a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 
 Khi cần hỗ trợ xin liên hệ với chúng tôi:
 
