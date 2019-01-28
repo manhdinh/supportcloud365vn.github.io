@@ -3,11 +3,11 @@ date: 2019-01-25
 title: Plesk tại Cloud365
 categories:
   - cloud-app
-description: Giới thiệu về ứng dụng Plesk trong cloud365.vn
+description: Giới thiệu về ứng dụng Plesk trong cloud365
 type: Document
 ---
 
-## 1. Giới thiệu Plesk và Plesk trên Cloud365.vn
+## 1. Giới thiệu Plesk và Plesk trên Cloud365
 
 Bạn là một lập trình viên, bạn là một sinh viên, một doanh nghiệp có vận hành các trang web riêng cho mình hẳn sử dụng qua một Control Panel nhằm quản lý Source code của mình trên nền tảng WEB
 
