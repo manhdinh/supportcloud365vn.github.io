@@ -74,5 +74,3 @@ Khi cần hỗ trợ xin liên hệ với chúng tôi:
 - Chi nhánh HCM: 270 Cao Thắng (nối dài), Phường 12,Quận 10, TP HCM
 - Hotline: `19006680`
 
-
-
