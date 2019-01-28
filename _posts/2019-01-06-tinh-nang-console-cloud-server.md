@@ -62,7 +62,7 @@ Bạn phải truy cập vào portal
 
 ![](/images/img-remote-cloud-server/Screenshot_612.png)
 
-Hy vọng chức năng remote cloud server giúp bạn quản trị thao tác được tuận tiện hơn.
+Hy vọng tính năng năng console cloud server giúp bạn quản trị thao tác được thuận tiện hơn.
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
