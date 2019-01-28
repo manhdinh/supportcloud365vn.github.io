@@ -22,15 +22,15 @@ Plesk là  Control Panel quản trị Hosting trên cả Windows và Linux toàn
 + Áp dụng chính sách mật khẩu mạnh <br>
 + Bảo mật thông tin khách hàng.<br>
 + Khách hàng chủ động cho việc quản trị cloud server Plesk.<br>
-+ Plesk hỗ trợ trên cả Linux(CentOS) là Windows
++ Plesk hỗ trợ trên cả Linux(CentOS) và Windows
 
-Dịch vụ Cloud365 của Nhân Hòa cho phép bạn cài đặt nhanh chóng một VM có tích hợp sẵn `Plesk` hoặc có thể rebuild VM có sẵn thành `Plesk` nếu bạn có nhu cầu sử dụng
+Dịch vụ Cloud365 của Nhân Hòa cho phép bạn cài đặt nhanh chóng một cloud server có tích hợp sẵn `Plesk` hoặc có thể rebuild cloud server có sẵn thành `Plesk` nếu bạn có nhu cầu sử dụng
 
 ## 1. Đăng ký mới cloud server Plesk
 
 ## 1.1. Lựa chọn bản Plesk bạn muốn cài đặt
 
-Như một số nhà cung cấp khác bạn chỉ có thể đăng ký những cloud server trắng và bạn phải tự cài đặt ứng dụng `Plesk` để sử dụng. Cloud server Nhân Hòa cung cấp đã được tích hợp sẵn vào cloud server, bạn có thể lên trang chủ <a href="https://nhanhoa.com/" target="_blank">nhanhoa.com</a>
+Như một số nhà cung cấp khác bạn chỉ có thể đăng ký những cloud server trắng và bạn phải tự cài đặt ứng dụng `Plesk` để sử dụng. cloud server Nhân Hòa cung cấp đã được tích hợp sẵn vào cloud server, bạn có thể lên trang chủ <a href="https://nhanhoa.com/" target="_blank">nhanhoa.com</a>
 
 ![](/images/img-plesk/plesk-01.png)
 
@@ -44,7 +44,7 @@ Bạn kiểm tra email để lấy thông tin.
 
 ![](/images/img-plesk/plesk-05.png)
 
-Bạn cũng có thể quản lý các thao tác khác đối với VM này trên giao diện Tham khảo sử dụng sử dụng  <a href="https://support.cloud365.vn/category/cloud-server/" target="_blank">portal</a>
+Bạn cũng có thể quản lý các thao tác khác đối với cloud server này trên giao diện Tham khảo sử dụng sử dụng  <a href="https://support.cloud365.vn/category/cloud-server/" target="_blank">portal</a>
 
 ![](/images/img-plesk/plesk-07.png)
 
@@ -59,7 +59,7 @@ https://ip-cloud-server:8443
 
 ## 2. Chuyển đổi sử dụng cloud server Plesk
 
-Với `portal` được Nhân Hòa phát triển mang lại sự chủ động và tiện lợi cho khách hàng. Bạn có thể hoàn toàn chủ động thay đổi hệ điều hành cho Cloud server của mình mà vẫn giữ nguyên các thông số cấu hình cloud sever.<br>
+Với `portal` được Nhân Hòa phát triển mang lại sự chủ động và tiện lợi cho khách hàng. Bạn có thể hoàn toàn chủ động thay đổi hệ điều hành cho cloud server của mình mà vẫn giữ nguyên các thông số cấu hình cloud sever.<br>
 Tham khảo sử dụng sử dụng portal <a href="https://support.cloud365.vn/category/cloud-server/" target="_blank">tại đây</a>
 
 ![](/images/img-plesk/plesk-04.png)
