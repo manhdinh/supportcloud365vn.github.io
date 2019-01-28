@@ -1,9 +1,9 @@
 ---
 date: 2019-01-05
-title: Rebuild cloud server
+title: Tính năng rebuild cloud server
 categories:
   - cloud-server
-description: Rebuild cloud server
+description: Hướng dẫn sử dụng tính năng rebuild cloud server
 type: Document
 ---
 

@@ -15,7 +15,7 @@ Hiện nay có rất nhiều nhà cung cấp dịch vụ hosting, `cloud server`
 Sau một thời gian nghiên cứu và phát triển <a href="https://nhanhoa.com/" target="_blank">Nhân Hòa</a> đã cung cấp dịch vụ <a href="https://nhanhoa.com/may-chu/may-chu-ao-vps.html" target="_blank">cloud server</a> dựa trên nền tảng Openstack.<br>
 Nhân Hòa <a href="https://portal.cloud365.vn/user/login/" target="_blank">portal</a> đã được đội ngũ kỹ thuật phát triển đưa ra nhằm cung cấp một công cụ cho người quản trị thao tác khởi tạo, tìm kiếm thông tin và giám giát cloud server của khách hàng được nhanh nhất, support khách hàng nhanh chóng và chính xác nhất.
 
-## 2. Tính năng cở bản Nhân Hòa portal demo
+## 2. Tính năng cơ bản Nhân Hòa portal demo
 
 Đưa ra biểu đồ tổng quan về hạ tầng hệ thống.
 
