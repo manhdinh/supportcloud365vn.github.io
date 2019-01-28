@@ -1,21 +1,32 @@
 ---
 date: 2019-01-06
-title: Remote cloud server
+title: Tính năng console cloud server
 categories:
   - cloud-server
-description: Thực hiện truy cập cloud server khi không thể kết nối từ xa
+description: Thực hiện truy cập console cloud server khi không thể kết nối từ xa
 type: Document
 ---
 
-Khi nhận được thông tin về cloud server đã đăng ký sử dụng của, bạn có thể kết nối tới cloud server của mình để thực hiện cài đặt, triển khai các ứng dụng. Trường hợp bạn thay đổi cấu hình cloud server dẫn tới bạn không thể truy cập cloud server của mình qua một số công cụ như remote desktop, telnet, MobaXterm. Vậy là thế nào để bạn có thể kiểm tra cloud server của mình ? Thật đơn giản portal Nhân Hòa cung câp sẽ giúp bạn truy cập vào cloud server của mình để chủ động kiểm tra mà không phần gửi yêu cầu hỗ trợ tới bộ phận support và chờ đợi kết quả. Hướng dẫn dưới đây giúp bạn remote cloud server của mình.
+Khi bạn đăng ký sử dụng `cloud server` do <a href="https://cloud365.vn/" target="_blank">cloud365</a> cung cấp, thông tin quản trị `cloud server` sẽ được tự động gửi về email đăng ký của bạn, bạn có thể kết nối tới cloud server của mình để thực hiện cài đặt, triển khai các ứng dụng.
 
-## Bạn có thể thực hiện điểu khiển cloud server của mình ở 2 màn giao diện.
+## Webconsole để làm gì?
 
-+ Bạn phải truy cập vào portal
++ Trường hợp bạn thay đổi cấu hình cloud server dẫn tới bạn không thể truy cập cloud server của mình qua một số công cụ như Remote desktop, Putty, MobaXterm. <a href="https://portal.cloud365.vn/user/login/" target="_blank">Portal</a> Nhân Hòa cung cấp sẽ giúp bạn truy cập vào `cloud server` của mình để chủ động kiểm tra.<br>
++ Không cần phải gửi yêu cầu hỗ trợ tới bộ phận support và chờ đợi kết quả.<br>
++ Không phải cài đặt thêm vnc server.<br>
++ Đảm bảo mã hóa thông tin trên đường truyền internet.<br>
++ Hỗ trợ hầu hết trên các browser.
+
+## Hai cách để console cloud server trên portal
+
+Bạn phải truy cập vào portal
 
 <a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
 
 ![](/images/img-remote-cloud-server/Screenshot_600.png)
+
++ Thực hiện tại giao diện danh sách server<br>
++ Thực hiện tại giao diện chi tiết cloud server
 
 ## Cách 1: Tại giao diện danh sách server
 
