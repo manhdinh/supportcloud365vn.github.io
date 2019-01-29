@@ -1,6 +1,6 @@
 ---
 date: 2019-01-05
-title: Điều khiển cloud server
+title: Tính năng điều khiển cloud server
 categories:
   - cloud-server
 description: Thực hiện một số thao tác restart, stop, pause, resume cloud server
