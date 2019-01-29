@@ -36,6 +36,8 @@ Sau khi nhận được thông tin cloud server tùy thuộc vào cloud server c
 
 ### Bạn truy cập vào portal để thực hiện một số chức năng vận hành cloud server
 
+<a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
+
 + Click `Danh sách server`
 
 ![](/images/img-vanhanh-vps/Screenshot_543.png)
@@ -146,7 +148,7 @@ cloud server sau khi rebuild sang OS mới.
 ![](/images/img-vanhanh-vps/Screenshot_567.png)
 
 ---
-[cloud365.vn](https://cloud365.vn/)
+<a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 
 Khi cần hỗ trợ xin liên hệ với chúng tôi:
 

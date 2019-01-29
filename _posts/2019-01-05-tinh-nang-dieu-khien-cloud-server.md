@@ -1,6 +1,6 @@
 ---
 date: 2019-01-05
-title: Điều khiển cloud server
+title: Tính năng điều khiển cloud server
 categories:
   - cloud-server
 description: Thực hiện một số thao tác restart, stop, pause, resume cloud server
@@ -14,6 +14,8 @@ Nhân Hòa port cung cấp cho bạn chức năng điều khiển server cho ph�
 ## Bạn có thể thực hiện điểu khiển cloud server của mình ở 2 màn giao diện.
 
 + Bạn phải truy cập vào portal
+
+<a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
 
 ![](/images/img-control-cloud-server/Screenshot_600.png)
 
@@ -60,7 +62,7 @@ Bạn thực hiện các thao tác điều khiển khác tương tự.
 Hy vọng chức năng điều khiển cloud server giúp bạn quản trị thao tác được tuận tiện hơn.
 
 ---
-[cloud365.vn](https://cloud365.vn/)
+<a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 
 Khi cần hỗ trợ xin liên hệ với chúng tôi:
 

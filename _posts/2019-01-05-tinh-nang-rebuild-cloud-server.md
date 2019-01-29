@@ -1,9 +1,9 @@
 ---
 date: 2019-01-05
-title: Rebuild cloud server
+title: Tính năng rebuild cloud server
 categories:
   - cloud-server
-description: Rebuild cloud server
+description: Hướng dẫn sử dụng tính năng rebuild cloud server
 type: Document
 ---
 
@@ -25,7 +25,9 @@ Chi tiết cách thức rebuild cloud server bạn thực hiện theo hướng d
 <a name="truycap"></a>
 ## Bước 1: Truy cập vào Nhân Hòa portal
 
-Bạn sử dụng thông tin đăng nhập bao gồm email/password để đăng nhập
+Bạn sử dụng thông tin đăng nhập bao gồm `email/password` để đăng nhập
+
+<a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
 
 ![](/images/img-rebuild-vps/Screenshot_568.png)
 
@@ -51,7 +53,10 @@ Bạn sử dụng thông tin đăng nhập bao gồm email/password để đăng
 
 Bạn lựa chọn hệ điều hành muốn rebuild cho cloud server của mình.
 
-**Lưu ý: Khi rebuild dữ liệu ổ cứng sẽ không được giữ lại. Máy chủ sẽ chạy với hệ điều hành mà bạn xác nhận lựa chọn để rebuild.<br>Bạn có thể rebuil sang hệ điều hành Windows, Linux trắng và Linux có cài đặt ứng dụng (Plesk, Direct Admin, WHM).<br>Bạn không thể rebuil sang hệ điều hành Windows server có cài đặt ứng dụng.**
+Lưu ý:
++ Khi rebuild dữ liệu ổ cứng sẽ không được giữ lại. Máy chủ sẽ chạy với hệ điều hành mà bạn xác nhận lựa chọn để rebuild.<br>
++ Bạn có thể rebuild sang hệ điều hành Windows, Linux trắng và Linux có cài đặt ứng dụng (Plesk, Direct Admin, WHM).<br>
++ Bạn không thể rebuild sang hệ điều hành Windows server có cài đặt ứng dụng.
 
 ![](/images/img-rebuild-vps/Screenshot_575.png)
 
@@ -67,7 +72,9 @@ Chờ một vài phút để quá trình rebuild hoàn tất.
 <a name="thongtin"></a>
 ## Bước 5: Lấy thông tin cloud server sau khi rebuild
 
-Sau khi rebuild thành công thông tin sẽ được gửi về email của bạn.
+Sau khi rebuild thành công thông tin sẽ được gửi về email của bạn.<br>
++ Lựa chọn rebuild sang cloud server linux bạn vui lòng chờ khoảng 2-3 phút để hệ thống tự động gửi thông tin.<br>
++ Đối với rebuild sang cloud server windows bạn vui lòng chờ 8-10 phút để hệ thống gửi tự động gửi thông tin.
 
 ![](/images/img-rebuild-vps/Screenshot_577.png)
 
@@ -87,7 +94,7 @@ Sau khi rebuild thành công thông tin sẽ được gửi về email của b�
 Quá trình rebuild hoàn thành.
 
 ---
-[cloud365.vn](https://cloud365.vn/)
+<a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 
 Khi cần hỗ trợ xin liên hệ với chúng tôi:
 
