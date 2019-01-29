@@ -8,7 +8,7 @@ tags: [portal, mat khau]
 type: Document
 ---
 
-Sau khi bạn đang ký sử dụng cloud server tại <a href="https://nhanhoa.com/may-chu/may-chu-ao-vps.html">Nhân Hòa</a> bạn sẽ nhận được các thông tin cần thiết để quản lý máy chủ của bạn như thông tin quản trị của máy chủ, thông tin quản lý máy chủ qua portal.Portal Nhân Hòa cung cấp cho bạn các tính năng tiện ích để quản lý máy chủ như console, rebuild máy chủ, bật tắt máy chủ, quản lý mật khẩu.Ở bài viết này sẽ chúng tôi sẽ giói thiệu cho các bạn về tính năng quản lý mật khẩu trên portal
+Sau khi bạn đang ký sử dụng cloud server tại (<a href="https://nhanhoa.com/may-chu/may-chu-ao-vps.html" target="_blank">Nhân Hòa</a>) bạn sẽ nhận được các thông tin cần thiết để quản lý máy chủ của bạn như thông tin quản trị của máy chủ, thông tin quản lý máy chủ qua portal.Portal Nhân Hòa cung cấp cho bạn các tính năng tiện ích để quản lý máy chủ như console, rebuild máy chủ, bật tắt máy chủ, quản lý mật khẩu.Ở bài viết này sẽ chúng tôi sẽ giói thiệu cho các bạn về tính năng quản lý mật khẩu trên portal
 
 ## 1. Truy cập vào portal
 
