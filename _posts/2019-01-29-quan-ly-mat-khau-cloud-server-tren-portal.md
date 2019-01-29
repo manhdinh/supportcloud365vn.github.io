@@ -1,10 +1,9 @@
 ---
+date: 2019-01-29
 title: Hướng dẫn quản lý mật khẩu cloud server trên portal
 categories:
-  - Other
+  - cloud-server
 description: Hướng dẫn quản lý mật khẩu cloud server trên portal
-author: quyenbx
-tags: [portal, mat khau]
 type: Document
 ---
 
