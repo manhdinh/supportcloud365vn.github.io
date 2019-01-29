@@ -55,7 +55,7 @@ Nhập mật khẩu có sẵn của người dùng vào.Ở đây lưu ý mật 
 
 Sau khi nhập xong mật khẩu ta click vào vào Đồng ý để hoàn thành việc đổi mật khẩu
 
-![](/images/img-quan-ly-mat-khau-portal/9.png
+![](/images/img-quan-ly-mat-khau-portal/9.png)
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
