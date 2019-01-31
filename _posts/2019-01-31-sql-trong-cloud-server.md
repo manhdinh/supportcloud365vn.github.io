@@ -1,0 +1,64 @@
+---
+date: 2019-01-31
+title: Giới thiệu SQL Server trong Cloud Server
+categories:
+  - cloud-server
+description: Giới thiệu SQL Server trong Cloud Server
+type: Document
+---
+
+## 1. SQL là gì? Tổng quan SQL Server
+
+![](/images/img-sql-cloud-server/sql_cloud.png)
+
+Là phần mềm được Microsoft phát triển dựa trên RDBMS (RDBMS là viết tắt của Relational Database Management System có nghĩa là hệ quản trị cơ sỡ dữ liệu quan hệ).
+Là hệ quản trị cơ sở dữ liệu quan hệ đối tượng.
+Là một nền tảng độc lập.
+Phần mềm sử dụng cả giao diện dòng lệnh và giao diện GUI.
+
+Đối tượng của SQL server là các bảng dữ liệu với các cột và các hàng. Cột được gọi là trường dữ liệu và hàng là bản ghi của bảng. Cột dữ liệu và kiểu dữ liệu xác định tạo nên cấu trúc của bảng. Khi bảng được tổ chức thành một hệ thống cho một mục đích sử dụng cụ thể vào công việc nào đó sẽ trở thành một cơ sở dữ liệu.
+
+## 2. Mục đích sử dụng của SQL Server
+- Tạo cơ sở dữ liệu.
+- Duy trì cơ sở dữ liệu.
+- Phân tích dữ liệu 
+- Tạo báo cáo
+
+## 3. Một số phiên bản của SQL Server
+- `Enterprise` - bản cao cấp nhất với đầy đủ tính năng.
+- `Standard` - ít tính năng hơn Enterprise, sử dụng khi không cần dùng tới các tính năng nâng cao.
+- `Workgroup` - phù hợp cho các công ty lớn với nhiều văn phòng làm việc từ xa.
+- `Web` - thiết kế riêng cho các ứng dụng web.
+- `Developer` - tương tự như Enterprise nhưng chỉ cấp quyền cho một người dùng duy nhất để phát triển, thử nghiệm, demo. Có thể dễ dàng nâng cấp lên bản Enterprise mà không cần cài lại.
+- `Express` - bản này chỉ dùng ở mức độ đơn giản, tối đa 1 CPU và bộ nhớ 1GB, kích thước tối đa của cơ sở dữ liệu là 10GB.
+- `Datacenter` - thay đổi lớn trên SQL Server 2008 R2 chính là bản Datacenter Edition. Không giới hạn bộ nhớ và hỗ trợ hơn 25 bản cài.
+- `Enterprise Evaluation` - bản SQL Server Evaluation Edition là lựa chọn tuyệt vời để dùng được mọi tính năng và có được bản cài miễn phí của SQL Server để học tập và phát triển. Phiên bản này có thời gian hết hạn là 6 tháng từ ngày cài.
+
+Phiên bản của Cloud365 hiện hỗ trợ là : SQL Server 2008, SQL server 2012, SQL Server 2014 và là phiên bản Enterprise, có thể sử dụng thử dịch vụ tại [đây](https://cloud365.vn/)
+
+## 4. Đăng nhập vào Microsoft SQL trên server cloud365.vn
+Việc cài đặt Microsoft SQL server 
+- Thực hiện truy cập `Microsoft SQL Server Management Studio`
+
+![](/images/img-sql-cloud-server/sql_cloud1.png)
+
+- Sau khi hiện màn hình đăng nhập người dùng có thể đăng nhập bằng Windows Authentication (ở đây mặc định là tài khoản Administrator) hoặc bằng tài khoản admin của SQL (sa) mà cloud365 đã cung cấp.
+
+- Đăng nhập thông tin chính xác người dùng có thể truy cập - thao tác với các cơ sở dữ liệu trên cloud:
+
+![](/images/img-sql-cloud-server/sql_cloud3.png)
+
+
+
+
+
+
+---
+<a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
+
+Khi cần hỗ trợ xin liên hệ với chúng tôi:
+
+**Công ty phần mềm Nhân Hòa**
+- Trụ sở Hà Nội: 32 Võ Văn Dũng, Đống Đa, Hà Nội
+- Chi nhánh HCM: 270 Cao Thắng (nối dài), Phường 12,Quận 10, TP HCM
+- Hotline: `19006680`
