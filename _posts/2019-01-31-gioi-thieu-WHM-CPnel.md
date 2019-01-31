@@ -33,8 +33,6 @@ cPanel là một giao diện web quản lý Hosting của khách hàng và là m
 
 ### MAIL
 
-![whm](/images/img-whm-cpanel/13.png)
-
 - Quản lý các tài khoản, tạo, xáo trộn các tạo khoản POP3, thay đổi mật khẩu và định mức tài nguyên sử dụng.
 - Cấu hình tự động hoặc hướng dẫn cấu hình bằng tay cho trình duyệt mail ở máy khách như Microsoft Outlook, Microsoft Outlook Express…
 - Hệ thống trả lời tự động, bộ lọc, danh sách từ chối. tạo, xóa hoặc thay đổi.
