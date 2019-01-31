@@ -8,6 +8,8 @@ type: Document
 ---
 ## 1. Giới thiệu WHM và CPanel trên Cloud365
 
+![whm](/images/img-whm-cpanel/11.png)
+
 Đối với những Webmaster của một website bất kỳ phải dùng những công cụ của nhà cung cấp host để quản lý website của mình như: thêm domain, upload file, quản lý cơ sở dữ liệu, FTP, làm mail server, quản lí mật khẩu, các trang báo lỗi…..những công cụ đó gọi là Web Host Manager (WHM) và cPanel là một trong những WHM tốt nhất được biết đến, dễ sử dụng,linh hoạt cho tất cả mọi người từ quản trị website cho đến người quản trị máy chủ và có rất nhiều tính năng tiện dụng khác mà bạn có thể thực hiện một cách nhanh chóng , an toàn.
 
 ### WHM là gì?
