@@ -107,6 +107,8 @@ Sau khi điền đủ các thông tin, chọn nút **Save and Go to Step 3**
 
 - Step 7 : Logout và đăng nhập lại để sử dụng WHM Cpanel
 
+![whm](/images/img-whm-cpanel/10.png)
+
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 
