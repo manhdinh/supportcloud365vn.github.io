@@ -24,6 +24,8 @@ cPanel là một giao diện web quản lý Hosting của khách hàng và là m
 
 ### THỐNG KÊ
 
+![whm](/images/img-whm-cpanel/12.png)
+
 - 3 chương trình thống kê: Webalizer Web Stats, AWStats, Analog Stats.
 - Thống kê theo tên miền phụ.
 - Xem danh sách 300 khách ghe thăm website gần nhất bao gồm thông tin: IP, thời gian và nơi truy cập, trình duyệt nào và hệ điều hành khách viếng thăm sử dụng.
@@ -32,6 +34,8 @@ cPanel là một giao diện web quản lý Hosting của khách hàng và là m
 - Xem nhật ký của dịch vụ Apache, có thể tải về.
 
 ### MAIL
+
+![whm](/images/img-whm-cpanel/13.png)
 
 - Quản lý các tài khoản, tạo, xáo trộn các tạo khoản POP3, thay đổi mật khẩu và định mức tài nguyên sử dụng.
 - Cấu hình tự động hoặc hướng dẫn cấu hình bằng tay cho trình duyệt mail ở máy khách như Microsoft Outlook, Microsoft Outlook Express…
@@ -42,12 +46,16 @@ cPanel là một giao diện web quản lý Hosting của khách hàng và là m
 
 ### FTP
 
+![whm](/images/img-whm-cpanel/14.png)
+
 - Tạo, xóa tài khoản FTP. Thay đổi mật khẩu và thư mục có thể truy cập với từng tài khoản.
 - Quản lý truy cập nặc danh (anonymous access).
 - Quản lý phiên làm việc FTP.
 - Thay đổi thông điệp hiển thị trên nhật ký FTP.
 
 ### SAO LƯU
+
+![whm](/images/img-whm-cpanel/15.png)
 
 - Tạo các bản sao lưu của file và các CSDL, phục hồi file và CSDL trên máy chủ từ một bản sao lưu, ví dụ từ máy tính cá nhân của người dùng.
 
