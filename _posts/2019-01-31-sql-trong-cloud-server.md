@@ -44,12 +44,31 @@ Microsoft SQL Server đã được cài đặt sẵn trên Cloud của cloud365,
 - Windows Server 2012 + SQL 2014
 - Windows Server 2012 + Plesk (SQL 2012)
 - Windows Server 2016 + SQL 2014
+- Windows Server 2016 + Plesk (SQL 2014)
 
 Người dùng có thể thực hiện order VPS thông qua trang chủ <a href="https://nhanhoa.com/" target="_blank">nhanhoa.com</a> :
 
 <span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud4.png)</span>
 
 Hoặc có thể liên hệ trực tiếp với <a href="https://nhanhoa.com/lien-he.html" target="_blank">bộ phận kinh doanh Nhân Hòa</a>
+
+**Với trường hợp đang sử dụng dịch vụ tại Cloud365** : người dùng có thể tự rebuild Cloud để sử dụng SQL Server (với Cloud từ gói C trở lên):
+
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud6.png)</span>
+
+Chọn máy ảo, click vào `Quản lý máy aor` và chọn `REBUILD`
+
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud7.png)</span>
+
+Trong phần Hệ điều hành, chọn Windows App, sau đó chọn template muốn sử dụng
+
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud8.png)</span>
+
+Cần xác nhận lại nội dung `REBUILD` lại máy ảo sẽ xóa toàn bộ dữ liệu trên máy ảo cũ
+
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud9.png)</span>
+
+Sau khi rebuild thành công, thông tin máy ảo sẽ được gửi tới người dùng.
 
 ## 5. Truy cập SQL server 
 
