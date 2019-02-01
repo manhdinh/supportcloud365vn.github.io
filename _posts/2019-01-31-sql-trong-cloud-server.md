@@ -34,9 +34,25 @@ Phần mềm sử dụng cả giao diện dòng lệnh và giao diện GUI.
 - `Datacenter` - thay đổi lớn trên SQL Server 2008 R2 chính là bản Datacenter Edition. Không giới hạn bộ nhớ và hỗ trợ hơn 25 bản cài.
 - `Enterprise Evaluation` - bản SQL Server Evaluation Edition là lựa chọn tuyệt vời để dùng được mọi tính năng và có được bản cài miễn phí của SQL Server để học tập và phát triển. Phiên bản này có thời gian hết hạn là 6 tháng từ ngày cài.
 
-Phiên bản của Cloud365 hiện hỗ trợ là : SQL Server 2008, SQL server 2012, SQL Server 2014 và là phiên bản Enterprise, có thể sử dụng thử dịch vụ tại [đây](https://cloud365.vn/)
+Phiên bản của Cloud365 hiện hỗ trợ là : SQL Server 2008, SQL server 2012, SQL Server 2014 và là phiên bản Enterprise, có thể sử dụng thử dịch vụ tại <a href="https://cloud365.vn/" target="_blank">đây</a>
 
-## 4. Đăng nhập vào Microsoft SQL trên server cloud365.vn
+## 4. Microsoft SQL trên server cloud365.vn
+
+Microsoft SQL Server đã được cài đặt sẵn trên Cloud của cloud365, người dùng có thể chọn sử dụng cùng Plesk hoặc chỉ cài đặt hệ điều hành Windows + SQL Server:
+- Windows Server 2008 + Plesk (SQL 2012)
+- Windows Server 2012 + SQL 2012
+- Windows Server 2012 + SQL 2014
+- Windows Server 2012 + Plesk (SQL 2012)
+- Windows Server 2016 + SQL 2014
+
+Người dùng có thể thực hiện order VPS thông qua trang chủ <a href="https://nhanhoa.com/" target="_blank">nhanhoa.com</a> :
+
+![](/images/img-sql-cloud-server/sql_cloud4.png)
+
+Hoặc có thể liên hệ trực tiếp với <a href="https://nhanhoa.com/lien-he.html" target="_blank">bộ phận kinh doanh Nhân Hòa</a>
+
+
+
 Việc cài đặt Microsoft SQL server 
 - Thực hiện truy cập `Microsoft SQL Server Management Studio`
 
