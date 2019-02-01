@@ -9,7 +9,7 @@ type: Document
 
 ## 1. SQL là gì? Tổng quan SQL Server
 
-![](/images/img-sql-cloud-server/sql_cloud.png)
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud.png)</span>
 
 Là phần mềm được Microsoft phát triển dựa trên RDBMS (RDBMS là viết tắt của Relational Database Management System có nghĩa là hệ quản trị cơ sỡ dữ liệu quan hệ).
 Là hệ quản trị cơ sở dữ liệu quan hệ đối tượng.
@@ -47,26 +47,27 @@ Microsoft SQL Server đã được cài đặt sẵn trên Cloud của cloud365,
 
 Người dùng có thể thực hiện order VPS thông qua trang chủ <a href="https://nhanhoa.com/" target="_blank">nhanhoa.com</a> :
 
-![](/images/img-sql-cloud-server/sql_cloud4.png)
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud4.png)</span>
 
 Hoặc có thể liên hệ trực tiếp với <a href="https://nhanhoa.com/lien-he.html" target="_blank">bộ phận kinh doanh Nhân Hòa</a>
 
+## 5. Truy cập SQL server 
 
+Sau khi nhận được thông tin Cloud365.vn cung cấp, người dùng có thể truy cập được SQL Server Database thông qua 2 cách: remote access hoặc local access. 
 
-Việc cài đặt Microsoft SQL server 
-- Thực hiện truy cập `Microsoft SQL Server Management Studio`
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud5.png)</span>
 
-![](/images/img-sql-cloud-server/sql_cloud1.png)
+Ở đây, người dùng có thể truy cập SQL trên chính server đó như sau:
 
-- Sau khi hiện màn hình đăng nhập người dùng có thể đăng nhập bằng Windows Authentication (ở đây mặc định là tài khoản Administrator) hoặc bằng tài khoản admin của SQL (sa) mà cloud365 đã cung cấp.
+- Remote desktop vào server, truy cập `Microsoft SQL Server Management Studio`
+
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud1.png)</span>
+
+- Sau khi hiện màn hình đăng nhập người dùng có thể đăng nhập bằng Windows Authentication (ở đây mặc định là tài khoản `Administrator`) hoặc bằng tài khoản admin của SQL (`sa`) mà cloud365 đã cung cấp.
 
 - Đăng nhập thông tin chính xác người dùng có thể truy cập - thao tác với các cơ sở dữ liệu trên cloud:
 
-![](/images/img-sql-cloud-server/sql_cloud3.png)
-
-
-
-
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud3.png)</span>
 
 
 ---
