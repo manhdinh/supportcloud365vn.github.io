@@ -2,7 +2,7 @@
 date: 2019-01-31
 title: Giới thiệu SQL Server trong Cloud Server
 categories:
-  - cloud-server
+  - cloud-app
 description: Giới thiệu SQL Server trong Cloud Server
 type: Document
 ---
