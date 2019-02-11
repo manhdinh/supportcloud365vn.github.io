@@ -22,7 +22,7 @@ Tùy thuộc và template khách hàng lựa chọn <a href="https://nhanhoa.com
 
 ![](/images/img-cloud-server-gioi-thieu/Screenshot_409.png)
 
-**<a href="https://portal.cloud365.vn/user/login/" target="_blank">Portal</a> người dùng quản trị cloud server"
+**<a href="https://portal.cloud365.vn/user/login/" target="_blank">Portal</a> người dùng quản trị cloud server**<br>
 
 Điểm nổi bật khi bạn sử dụng dịch vụ cloud server tại `cloud365` đó là bạn hoàn toàn có thể quản lý cloud server (đổi mật khẩu, điểu khiển, console, rebuild) của mình mọi lúc mọi nơi thông qua laptop, máy tính bảng, smartphone.
 
