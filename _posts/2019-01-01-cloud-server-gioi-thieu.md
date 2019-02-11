@@ -43,6 +43,8 @@ Cloud365 hoàn toàn cung cấp cho bạn quyền để chủ động <a href="h
 **Console cloud server**<br>
 Khi sử dụng dịch cụ của các nhà cung cấp khác trường hợp không thể kết nối từ xa tới cloud server của mình bạn chỉ có thể liên hệ tới nhà cung cấp để và chờ đợi để hỗ trợ. Đối với cloud365 bạn có thể truy cập trực tiếp với cloud server ngay cả khi không kết nối được vì đã có tính năng <a href="https://support.cloud365.vn/cloud-server/tinh-nang-console-cloud-server/" target="_blank">console</a> hỗ trợ bạn.
 
+![](/images/img-cloud-server-gioi-thieu/Screenshot_415.png)
+
 **Tính năng giám sát**<br>
 Chủ động theo dõi quá trình hoạt động tài nguyên cloud server là tính năng giám sát đem lại. Bạn có thể theo dõi được quá trình hoạt động về RAM, Disk, CPU, Network trong vòng 30 ngày gần nhất để năm bắt được tình hình sử dụng và đưa ra những quyết định nâng cấp hợp lý nhất.
 
@@ -56,6 +58,10 @@ Tính năng <a href="https://support.cloud365.vn/cloud-server/tinh-nang-dieu-khi
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
+
+**Toàn vẹn dữ liệu**
+
+Cloud Server của `cloud365` được xây dựng và phát triển trên nền tảng điện toán đám mây OpenStack kết hợp với giải pháp lưu trữ CEPH. Hệ thống CEPH Storage chạy ổn định với nhiều bản replicate và được backup định kỳ, các bản backup lưu ở các vị trí địa lý khác nhau. Đảm bảo tối đa tính toàn vẹn và khả năng khôi phục dữ liệu cho khách hành nhanh nhất.
 
 Khi cần hỗ trợ xin liên hệ với chúng tôi:
 
