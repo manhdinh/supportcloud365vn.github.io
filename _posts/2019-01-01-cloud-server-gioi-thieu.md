@@ -62,6 +62,8 @@ Cloud Server của `cloud365` được xây dựng và phát triển trên nền
 
 ![](/images/img-cloud-server-gioi-thieu/servers.png)
 
+Tham khảo và đăng ký cloud server <a href="https://nhanhoa.com/may-chu/may-chu-cloud-server.html" target="_blank">tại đây!</a> 
+
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 
