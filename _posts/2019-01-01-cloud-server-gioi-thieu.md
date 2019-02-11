@@ -56,9 +56,9 @@ Tính năng <a href="https://support.cloud365.vn/cloud-server/tinh-nang-dieu-khi
 
 ![](/images/img-cloud-server-gioi-thieu/Screenshot_414.png)
 
-**Toàn vẹn dữ liệu**
+**Toàn vẹn dữ liệu**<br>
 
-Cloud Server của `cloud365` được xây dựng và phát triển trên nền tảng điện toán đám mây OpenStack kết hợp với giải pháp lưu trữ CEPH. Hệ thống CEPH Storage chạy ổn định với nhiều bản replicate và được backup định kỳ, các bản backup lưu ở các vị trí địa lý khác nhau. Đảm bảo tối đa tính toàn vẹn và khả năng khôi phục dữ liệu cho khách hành nhanh nhất.
+Cloud Server của `cloud365` được xây dựng và phát triển trên nền tảng điện toán đám mây OpenStack kết hợp với giải pháp lưu trữ CEPH. Hệ thống CEPH Storage chạy ổn định với nhiều bản replicate và được backup định kỳ, các bản backup lưu ở các vị trí địa lý khác nhau. Đảm bảo tối đa tính toàn vẹn và khả năng khôi phục dữ liệu cho khách hàng nhanh nhất.
 
 ![](/images/img-cloud-server-gioi-thieu/servers.png)
 
