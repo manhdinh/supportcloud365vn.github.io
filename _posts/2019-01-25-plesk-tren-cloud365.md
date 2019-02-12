@@ -30,7 +30,7 @@ Dịch vụ Cloud365 của Nhân Hòa cho phép bạn cài đặt nhanh chóng m
 
 ## 1.1. Lựa chọn bản Plesk bạn muốn cài đặt
 
-Như một số nhà cung cấp khác bạn chỉ có thể đăng ký những cloud server trắng và bạn phải tự cài đặt ứng dụng `Plesk` để sử dụng. Cloud server Nhân Hòa cung cấp đã được tích hợp sẵn vào cloud server, bạn có thể lên trang chủ <a href="https://nhanhoa.com/" target="_blank">nhanhoa.com</a>.
+Như một số nhà cung cấp khác bạn chỉ có thể đăng ký những cloud server trắng và bạn phải tự cài đặt ứng dụng `Plesk` để sử dụng. Cloud server Nhân Hòa cung cấp đã được tích hợp sẵn vào cloud server, bạn có thể lên trang chủ <a href="https://nhanhoa.com/may-chu/may-chu-ao-vps.html" target="_blank">nhanhoa.com</a>.
 
 ![](/images/img-plesk/plesk-01.png)
 
