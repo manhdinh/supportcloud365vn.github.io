@@ -13,6 +13,8 @@ Openstack là một công nghệ mới được Nhân Hòa sử dụng để xâ
 
 Openstack là 1 platform mã nguồn mở dùng để triển khai điện toán đám mây, hỗ trợ cả private cloud lẫn public cloud. Nó cung cấp giải pháp xây dựng hạ tầng điện toán đám mây đơn giản, có khả năng mở rộng và nhiều tính năng phong phú. Openstack là một cloud software được thiết kế để chạy trên các sản phẩm phần cứng như x86, ARM. Nó không có yêu cầu gì về đặc tính phần mềm hay phần cứng, nó tích hợp với các hệ thống kế thừa và các sản phẩm bên thứ ba.
 
+![](/images/img-cloud-server/04-cloudserver.png)
+
 ## 2. Kiến trúc của OpenStack
 
 ![](/images/img-cloud-server/00-cloudserver.png)
