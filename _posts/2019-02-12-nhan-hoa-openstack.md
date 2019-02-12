@@ -15,7 +15,7 @@ Openstack là 1 platform mã nguồn mở dùng để triển khai điện toán
 
 ## 2. Kiến trúc của OpenStack
 
-![](/images/img-cloudserver/00-cloudserver.png)
+![](/images/img-cloud-server/00-cloudserver.png)
 
 Kiến trúc tổng quan của OpenStack được chia thành 3 tầng 
 
@@ -33,7 +33,7 @@ Kiến trúc tổng quan của OpenStack được chia thành 3 tầng
 - PaaS (Platform as a service): cung cấp nền tảng để phát triển ứng dụng
 - SaaS (Software as a service): cung cấp khả năng truy cập phần mềm linh hoạt như HCM,CRM...
 
-![](/images/img-cloudserver/01-cloudserver.png)
+![](/images/img-cloud-server/01-cloudserver.png)
 
 #### Mô hình triển khai 
 
@@ -44,7 +44,7 @@ Các mô hình triển khai OpenStack trên thực tế
 - Hybrid Cloud: mô hình lai giữa public cloud và private cloud
 - Community Cloud: các dịch vụ được các công ty cùng hợp tác xây dựng và cung cấp cho cộng đồng sử dụng
 
-![](/images/img-cloudserver/02-cloudserver.png)
+![](/images/img-cloud-server/02-cloudserver.png)
 
 ## 4. Các đặc điểm nổi bật
 
@@ -72,4 +72,4 @@ Hệ thống Cloud365 của Nhân Hòa cam kết các tính năng dịch vụ  :
 - Cảnh báo chủ động
 - Hỗ trợ 24/7
 
-![](/images/img-cloudserver/03-cloudserver.png)
+![](/images/img-cloud-server/03-cloudserver.png)
