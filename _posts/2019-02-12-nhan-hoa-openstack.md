@@ -25,7 +25,7 @@ Kiến trúc tổng quan của OpenStack được chia thành 3 tầng
 - **Tầng Hypervisor (Standard Hardware)** : Phần ứng máy chủ đã được ảo hóa để chia sẻ cho người dùng.
 - **Dịch vụ OpenStack (Openstack Shared Services)** : Các thành phần cơ bản như Dashboard, Compute, Networking, API, Storage.
 
-## 3. Mô hình 
+## 3. Mô hình  
 
 #### Mô hình giải pháp
 
