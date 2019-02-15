@@ -7,22 +7,16 @@ description: Nâng cấp cấu hình Cloud Server
 type: Document
 ---
 
-## Mở đầu
-
-Cloud VPS thường được chọn để phục vụ các website với lượng truy cập trung bình, hoặc các khách hàng muốn sở hữu máy ảo riêng để tiện tùy chỉnh, quản lý.
-
 Một số trường hợp, khách hàng sau một thời gian sử dụng, các site tăng trưởng về số lượng truy cập, quy mô website, hoặc đơn giản là lượng dữ liệu của website tăng lên, khiến cho lượng tài nguyên hiện có không đủ để đáp ứng. Hoặc trong trường hợp, người dùng có thể dự đoán trước được lượng truy cập sẽ tăng đột biến, như khi bạn có sự kiện hoặc đợt bán vé / giảm giá trên website, hoặc mở rộng thêm một lượng lớn các website / ứng dụng trên máy ảo.
 
-Thường thì các giải pháp về VPS luôn có rất nhiều gói cước để phục vụ cho việc mở rộng tức thì. Tại Cloud365, có rất nhiều gói cước với các cấu hình khác nhau sẵn sàng đáp ứng kịp thời nhu cầu của người dùng.
-
-Bài viết sẽ hướng dẫn khách hàng nâng cấp dịch vụ Cloud trên hệ thống của Cloud365.
+Tại Cloud365, có rất nhiều gói cước với các cấu hình khác nhau sẵn sàng đáp ứng kịp thời nhu cầu của người dùng. Bài viết sẽ hướng dẫn khách hàng nâng cấp dịch vụ Cloud trên hệ thống của Cloud365.
 
 ## Khi nào cần phải nâng cấp cấu hình Cloud server?
 
 Việc hoạt động không ổn định của website có thể còn do nhiều yếu tố: Phát sinh lỗi phía mã nguồn / máy chủ, lỗi đường truyền, bị tấn công ,... Với các nguyên nhân trên, khách hàng cần liên hệ với <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a> để nắm thêm thông tin và tư vấn. 
 Dưới đây, chỉ liệt kê ra các trường hợp liên quan đến việc quả tải về tài nguyên VPS:
 
-1. Dấu hiệu quá tải CPU, RAM 
+**Dấu hiệu quá tải CPU, RAM**
 
 - Website / ứng dụng mất nhiều thời gian để phản hồi hoặc không phản hồi, khi truy cập vào trang chủ hoặc trang con.
 - Khách hàng có thể quan sát thêm trên <a href="https://portal.cloud365.vn/" target="_blank">portal</a> của Cloud365:
@@ -31,7 +25,7 @@ Dưới đây, chỉ liệt kê ra các trường hợp liên quan đến việc
     - Số lượng truy cập tới website tăng so với bình thường.
     - Thay đổi, nâng cấp mã nguồn.
 
-2. Dấu hiệu quá tải ổ cứng 
+**Dấu hiệu quá tải ổ cứng**
 
 - Thông báo lỗi cơ sở dữ liệu, ví dụ:
 
@@ -47,10 +41,10 @@ Dưới đây, chỉ liệt kê ra các trường hợp liên quan đến việc
 <span style="display:block;text-align:center">![](/images/img-upgrade-cloud/upgrade_6.png)</span>
 
 - Nguyên nhân:
-    - Do service bị stop hoặc đầy ổ cứng dẫn đến lỗi khi hoạt động
+    - Do service bị stop hoặc đầy ổ cứng dẫn đến lỗi khi hoạt động.
     - Có thể login vào SSH / FTP để dọn dẹp các file không sử dụng đến, hoặc liên hệ để nâng cấp.
 
-3. Kiểm tra trong phần quản lý máy ảo
+**Kiểm tra trong phần quản lý máy ảo**
 - Người dùng có thể chủ động kiểm soát tài nguyên của VPS thông qua hệ thống giám sát được tích hợp sẵn trên portal của Cloud365, cụ thể:
 - Sau khi đăng nhập thành công VPS, người dùng click chuột vào máy ảo cần thống kê, sau đó thông tin tài nguyên máy ảo sẽ hiện ra ở phía bên phải.
 - Bên dưới là một ví dụ về trường hợp máy ảo sử dụng 100% tài nguyên CPU, dẫn đến không ổn định dịch vụ:
