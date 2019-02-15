@@ -1,6 +1,6 @@
 ---
 date: 2019-01-12
-title: Giới thiệu về cloud server
+title: Giới thiệu về công nghệ ảo hóa OpenStack
 categories:
   - cloud-server
 description: Giới thiệu về công nghệ ảo hóa OpenStack triển khai cloud server tại cloud365
