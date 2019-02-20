@@ -13,7 +13,7 @@ type: Video
 
 Portal quản lý dịch vụ  <a href="https://cloud365.vn/" target="_blank">Cloud365</a> của <a href="https://nhanhoa.com/" target="_blank">Nhân Hòa</a> được phát triển nhằm mang lại trải nghiệm thuận tiện nhất có thể cho khách hàng.
 
-## 2. Hướng dẫn đăng nhập Cloud365 Portal
+## 2. Đăng nhập Cloud365 Portal
 
 Sau khi <a href="https://nhanhoa.com/may-chu/dich-vu-bo-sung-clous-vps.html" target="_blank">đăng ký</a> gói dịch vụ trên trang chủ quý khách sẽ nhận được đường link kích hoạt tài khoản vào trong email đăng ký. Quá trình đổi mật khẩu để đăng nhập được thực hiện vô cùng nhanh chóng và thuận tiện. 
 Bạn còn chần chờ gì nữa hãy liên hệ với chúng tôi ngay để trải nghiệm một trong những dịch vụ Cloud hàng đầu tại Việt Nam hiện nay. 
