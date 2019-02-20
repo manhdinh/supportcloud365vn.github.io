@@ -1,8 +1,8 @@
 ---
 date: 2019-02-20
-title: Hướng dẫn đăng nhập Cloud365 Portal
+title: Đăng nhập Cloud365 Portal
 video_id: 0qrgXsXt9mE
-description: Hướng dẫn đăng nhập Cloud365 Portal
+description: Đăng nhập Cloud365 Portal
 categories:
   - Video
 resources:
