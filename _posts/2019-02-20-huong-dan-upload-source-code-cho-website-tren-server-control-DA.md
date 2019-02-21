@@ -167,6 +167,9 @@ Click Chuột phải vào file muốn upload và click vào Upload để up file
 
 ![](/images/img-upload-code-cho-website-Plesk/14.png)
 
+Kết quả sau khi upload file index.php như ví dụ trên chúng ta truy cập thử trình duyệt website và hiển thị nội dung như file index là thành công
+
+![](/images/img-upload-code-DA/26.png)
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
