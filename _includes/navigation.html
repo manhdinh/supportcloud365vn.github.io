@@ -1,6 +1,5 @@
 <a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
 <nav>
-	<a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn" style="padding: 5px;"><strong>&#9998;</strong> Edit navigation</a>
 	{% for link in site.data.navigation %}
 	{% assign class = "" %}
 
@@ -9,4 +8,5 @@
 		{% endif %}
 		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
 	{% endfor %}
+	<a><i class="fa fa-search" data-toggle="modal" data-target="#nav-search-modal"></i></a>
 </nav>
