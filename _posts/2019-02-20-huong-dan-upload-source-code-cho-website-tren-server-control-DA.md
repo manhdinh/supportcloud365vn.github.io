@@ -141,17 +141,14 @@ Sau khi download và cài đặt xong filezilla trên máy tính cá nhân chún
 
 Trong ảnh trên nhập các thông tin cần thiết như
 
+```sh
 Host: Địa chỉ IP của máy chủ
-
 Protocol: FTP
-
 Encryption: insecure 
-
 Login Type: normal 
-
 User: 
-
 Password: 
+```
 
 Sau khi kết nối FTP thành công giao diện hiển thị như ảnh bên dưới
 
