@@ -1,22 +1,28 @@
 ---
 date: 2019-02-21
-title: Các template được cung cấp bởi Cloud 365
+title: Template được cung cấp bởi Cloud 365
 categories:
   - cloud-app
-description: Các template được cung cấp bởi Cloud 365
+description: Template được cung cấp bởi Cloud 365
 type: Document
 ---
-Hệ thống Cloud365 hiện tại cung cấp hơn 30 template nhằm đáp ứng các nhu cầu của khách hàng, bao gồm các template hệ điều hành trắng, hệ điều hành đã được cài đặt sẵn một số ứng dụng.
+Nhằm đáp ứng các nhu cầu của khách hàng, tùy vào nhu cầu sử dụng và các ứng dụng cài đặt trên các môi trường khác nhau Cloud365 đã đóng gói và cùng cấp hơn `30` template các loại trên các hệ điều hành phổ biến như `Windows`, `Linux`. Ngoài ra còn hỗ trợ đóng gói sẵn các control panel hỗ trợ người dùng quản trị cloud server của mình được thuận tiện nhất. 
 
-Khách hàng (đang sử dụng dịch vụ của Cloud365 ) có thể xem trước các template ở phần rebuild máy ảo:
+Để đăng ký sử dụng gói cấu hình và lựa chọn các tempalte phù hợp với nhu cầu sử dụng của mình bạn tham khảo và lựa chọn <a href="https://nhanhoa.com/may-chu/may-chu-cloud-server.html" target="_blank">tại đây!</a> 
+Mỗi hệ điều hành yêu cầu thông số cấu hình tối thiểu nên tùy thuộc vào gói cấu hình `cloud server` bạn đăng ký mà bạn có thể lựa chọn được các tempalte tương ứng.
+
+Khách hàng đang sử dụng dịch vụ của `Cloud365` muốn chuyển đổi sang các template khác ở phần <a href="https://support.cloud365.vn/cloud-server/tinh-nang-rebuild-cloud-server/" target="_blank">rebuild </a> máy ảo trên Nhân Hòa <a href="https://portal.cloud365.vn/" target="_blank">portal</a> :
 
 ![](/images/img-template/template_1.png)
 
-Để tiện cho việc tìm kiếm, phân loại, Cloud365 tạm chia các template thành các nhóm sau: 
+Để tiện cho việc tìm kiếm, phân loại, Cloud365 chia các template thành các nhóm sau: 
 
 ## 1. Hệ điều hành trắng
 
-Là những template chỉ gồm hệ điều hành cơ bản, không cài đặt thêm các ứng dụng khác. Bao gồm các hệ điều hành sau:
+Là những template chỉ gồm hệ điều hành không cài đặt thêm các ứng dụng khác. Bao gồm các hệ điều hành sau:
+
+![](http://prntscr.com/my6zyy)
+
 - RedHat Enterprise Linux 6.8
 - RedHat Enterprise Linux 7.2
 - RedHat Enterprise Linux 7.6
@@ -42,7 +48,11 @@ Là những template chỉ gồm hệ điều hành cơ bản, không cài đặ
 - Windows MultiPoint 2011
 
 ## 2. Hệ điều hành Linux + ứng dụng
+
 Hệ điều hành đã được cài đặt sẵn một số công cụ trực quan giúp khách hàng có thể dễ dàng quản trị máy ảo của mình (DirectAdmin, WHM, Plesk):
+
+http://prntscr.com/my70i5
+
 - CentOS6 64bit + WHM                                              
 - CentOS6.10 64bit + DirectAdmin                                             
 - CentOS6.10 64bit + Plesk
@@ -57,6 +67,10 @@ Hệ điều hành đã được cài đặt sẵn một số công cụ trực 
 
 ## 3. Hệ điều hành Windows + ứng dụng
 
+Nhóm các template chạy hệ điều hành windows được cài đặt các ứng dụng cơ sở dữ liệu, webserver, control panel.
+
+http://prntscr.com/my70rk
+
 - Windows 2008R2 Enterprise 64bit + Plesk       
 - Windows 2012 64bit + SQL2012                  
 - Windows 2012 64bit + SQL2014                
@@ -65,7 +79,7 @@ Hệ điều hành đã được cài đặt sẵn một số công cụ trực 
 - Windows 2016 64bit Standard + SQL2014         
 - Windows 2016 64bit Standard + SQL2014 + Plesk                   
 
-
+Cloud365 liên tục phát triển và đóng gói các tempalte mới phục vụ nhu cầu sử dụng của quý khách hàng.
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
