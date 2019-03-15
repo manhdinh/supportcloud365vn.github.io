@@ -21,7 +21,8 @@ Khách hàng đang sử dụng dịch vụ của `Cloud365` muốn chuyển đ�
 
 Là những template chỉ gồm hệ điều hành không cài đặt thêm các ứng dụng khác. Bao gồm các hệ điều hành sau:
 
-![](http://prntscr.com/my6zyy)
+![](/images/img-template/template_4.png)
+
 
 - RedHat Enterprise Linux 6.8
 - RedHat Enterprise Linux 7.2
@@ -51,7 +52,7 @@ Là những template chỉ gồm hệ điều hành không cài đặt thêm cá
 
 Hệ điều hành đã được cài đặt sẵn một số công cụ trực quan giúp khách hàng có thể dễ dàng quản trị máy ảo của mình (DirectAdmin, WHM, Plesk):
 
-http://prntscr.com/my70i5
+![](/images/img-template/template_2.png)
 
 - CentOS6 64bit + WHM                                              
 - CentOS6.10 64bit + DirectAdmin                                             
@@ -69,7 +70,7 @@ http://prntscr.com/my70i5
 
 Nhóm các template chạy hệ điều hành windows được cài đặt các ứng dụng cơ sở dữ liệu, webserver, control panel.
 
-http://prntscr.com/my70rk
+![](/images/img-template/template_3.png)
 
 - Windows 2008R2 Enterprise 64bit + Plesk       
 - Windows 2012 64bit + SQL2012                  
