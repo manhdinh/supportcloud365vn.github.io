@@ -11,7 +11,7 @@ type: Video
 
 Nhằm bổ sung thêm tính năng, cải thiện thêm hiệu năng giúp nâng cao sự trải nghiệm của người dùng Nhân Hòa portal phiên bản 0.2.4 đã được phát triển và đưa vào sử dụng. Điểm khác biệt ở phiên bản 0.2.4 là cải hiện hiệu năng giữa người dùng và các tính năng trên portal, bổ súng thêm các template mới để khách hàng tùy biến lựa chọn.
 
-![](/images/mg-user-nhanhoa-portal/Screenshot_1251.png)
+![](/images/img-user-nhanhoa-portal/Screenshot_1251.png)
 
 Các tính năng cơ bản của người dùng trên portal bạn tham khảo chi tiết ở video trên.
 
