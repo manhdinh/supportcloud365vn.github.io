@@ -9,13 +9,13 @@ resources:
 type: Video
 ---
 
-Để đáp ứng nhu cầu người dùng có thể chủ động quản lý <a href="https://nhanhoa.com/may-chu/may-chu-ao-vps.html" target="_blank">cloud server</a> của mình, tiếp nối Nhân Hòa <a href="https://portal.cloud365.vn/user/login/" target="_blank">portal</a> version 0.2.0 với những tính năng đã đáp ứng được yêu cầu nhất định của người quản trị và người dùng, đội ngũ phát tiển của `cloud365` đã nghiên cứu, phát triển, cải tiến và bổ sung thêm tính năng mới trong phiên bản `0.2.4`.
+Để đáp ứng nhu cầu người dùng có thể chủ động quản lý <a href="https://nhanhoa.com/may-chu/may-chu-ao-vps.html" target="_blank">cloud server</a> của mình, tiếp nối Nhân Hòa <a href="https://portal.cloud365.vn/user/login/" target="_blank">portal</a> version 0.2.0 với những tính năng đã đáp ứng được yêu cầu nhất định của người quản trị và người dùng, đội ngũ phát triển của `cloud365` đã nghiên cứu, phát triển, cải tiến và bổ sung thêm tính năng mới trong phiên bản `0.2.4`.
 
-- Về phía người dùng: Bổ sung thêm các template mới cho người dùng lựa chọn và có thể <a href="https://support.cloud365.vn/cloud-server/tinh-nang-rebuild-cloud-server/" target="_blank">rebuild</a> sử dụng theo như cầu. 
+- **Về phía người dùng**: Bổ sung thêm các template mới cho người dùng lựa chọn và có thể <a href="https://support.cloud365.vn/cloud-server/tinh-nang-rebuild-cloud-server/" target="_blank">rebuild</a> sử dụng theo như cầu. 
 
 ![](/images/img-portal-v024/Screenshot_1249.png)
 
-- Về phía người quản trị: Bổ sung thêm tính năng quản lý volume, quản lý network, xuất báo cáo quản lý cloud server.
+- **Về phía người quản trị**: Bổ sung thêm tính năng quản lý volume, quản lý network, xuất báo cáo quản lý cloud server.
 
 ![](/images/img-portal-v024/Screenshot_1250.png)
 
