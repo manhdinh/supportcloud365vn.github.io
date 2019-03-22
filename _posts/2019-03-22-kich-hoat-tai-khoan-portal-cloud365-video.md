@@ -1,5 +1,5 @@
 ---
-date: 2019-03-23
+date: 2019-03-22
 title: Kích hoạt tài khoản portal cloud365
 video_id: RESgC5W7sJo
 description: Video hướng dẫn các thao tác người dùng kích hoạt tài khoản portal cloud365.
