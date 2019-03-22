@@ -35,6 +35,10 @@ type: Video
 
 ![](/images/img-admin-portal-v024/Screenshot_1257.png)
 
+- Báo cáo thống kê cloud server
+
+![](/images/img-admin-portal-v024/Screenshot_1258.png)
+
 Chi tiết các bạn theo dõi ở video trên.
 
 ---
