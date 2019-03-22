@@ -9,7 +9,7 @@ resources:
 type: Video
 ---
 
-Trong quá trình sử dụng cloud server không tránh khỏi những thởi điểm bạn sử dụng tài nguyên tới ngưỡng cảnh báo mà cloud server không đáp ứng được khiến bạn không thể thao tác được, bạn muốn khởi động lại cloud server của mình. Đối với một số nhà cung cấp khác bạn phải liên hệ và gửi yêu cầu hỗ trợ reboot cloud server, cloud365 đã triển khai tính năng <a href="https://support.cloud365.vn/cloud-server/tinh-nang-dieu-khien-cloud-server/" target="_blank">điều khiển</a> cloud server  trên portal để bạn có thể chủ động thực hiện thao tác như stop, start, restart, resume, pause.
+Trong quá trình sử dụng cloud server không tránh khỏi những thởi điểm bạn sử dụng tài nguyên tới ngưỡng cảnh báo mà cloud server không đáp ứng được khiến bạn không thể thao tác được, bạn muốn khởi động lại cloud server của mình. Đối với một số nhà cung cấp khác bạn phải liên hệ và gửi yêu cầu hỗ trợ reboot cloud server, cloud365 đã triển khai tính năng <a href="https://support.cloud365.vn/cloud-server/tinh-nang-dieu-khien-cloud-server/" target="_blank">điều khiển</a> cloud server  trên portal để bạn có thể chủ động thực hiện thao tác như `stop`, `start`, `restart`, `resume`, `pause`.
 
 ![](/images/img-dieu-khien-cloud-server-video/Screenshot_1263.png)
 
