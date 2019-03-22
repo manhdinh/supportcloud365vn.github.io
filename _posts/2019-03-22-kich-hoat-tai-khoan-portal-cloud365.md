@@ -9,7 +9,7 @@ resources:
 type: Video
 ---
 
-Bạn là khách hàng mới đăng ký sử dụng dịch vụ `cloud server` của <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>, sau khi hoàn tất các bước đăng ký bạn sẽ nhận sử dụng thông tin kích hoạt tài khoản <a href="https://portal.cloud365.vn/user/login/" target="_blank">portal</a>quản trị cloud server của mình. Chỉ mới một số click chuột bạn có thể kích hoạt tài khoản portal của mình.
+Bạn là khách hàng mới đăng ký sử dụng dịch vụ `cloud server` của <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>, sau khi hoàn tất các bước đăng ký bạn sẽ nhận sử dụng thông tin kích hoạt tài khoản <a href="https://portal.cloud365.vn/user/login/" target="_blank">portal</a> quản trị cloud server của mình. Chỉ mới một số click chuột bạn có thể kích hoạt tài khoản portal của mình.
 
 Video trên sẽ hướng dẫn chi tiết các bước thực hiện.
 ---
