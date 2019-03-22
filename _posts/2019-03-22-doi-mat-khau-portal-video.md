@@ -11,7 +11,7 @@ type: Video
 
 Sau một thời gian sử dụng portal cloud365 để thao tác quản trị cloud server, bạn có thể cung thông tin quản trị portal cho nhiều người truy cập sử dụng. Nếu bạn muốn thay đổi mật khẩu portal để đảm bảo tính bảo mật cho portal của mình bạn hoàn toàn có thể chủ động thao tác đổi mật khẩu potral của mình.
 
-![](/images/img-video-lay-pass-portal/Screenshot_1260.png)
+![](/images/img-doi-mat-khau-portal-video/Screenshot_1260.png)
 
 Video trên hướng dẫn bạn chi tiết các bước thực hiện.
 
