@@ -1,8 +1,8 @@
 ---
-date: 2018-12-20
+date: 2019-07-20
 title: Tài liệu API của portal
 categories:
-  - API
+  - TAPI
 description: Tài liệu API dành cho User của portal cloud365
 type: Document
 ---
