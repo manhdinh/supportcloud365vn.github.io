@@ -13,7 +13,7 @@ Nhân Hòa cung cấp cho bạn portal để quản trị cloud server của mì
 
 + Bạn sử dụng thông tin đăng nhập bao gồm email/password để đăng nhập
 
-![](/images/img-change-pass-portal/Screenshot_568.png)
+![](/images/img-change-pass-portal/Screenshot_202.png)
 
 ## Bước 2: Click `Thông tin cá nhân`
 
