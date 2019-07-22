@@ -13,7 +13,7 @@ Mỗi hệ điều hành yêu cầu thông số cấu hình tối thiểu nên t
 
 Khách hàng đang sử dụng dịch vụ của `Cloud365` muốn chuyển đổi sang các template khác ở phần <a href="https://support.cloud365.vn/cloud-server/tinh-nang-rebuild-cloud-server/" target="_blank">rebuild </a> máy ảo trên Nhân Hòa <a href="https://portal.cloud365.vn/" target="_blank">portal</a> :
 
-![](/images/img-template/template_1.png)
+![](/images/img-template/Screenshot_263.png)
 
 Để tiện cho việc tìm kiếm, phân loại, Cloud365 chia các template thành các nhóm sau: 
 
@@ -21,7 +21,7 @@ Khách hàng đang sử dụng dịch vụ của `Cloud365` muốn chuyển đ�
 
 Là những template chỉ gồm hệ điều hành không cài đặt thêm các ứng dụng khác. Bao gồm các hệ điều hành sau:
 
-![](/images/img-template/template_4.png)
+![](/images/img-template/Screenshot_264.png)
 
 
 - RedHat Enterprise Linux 6.8
@@ -52,7 +52,7 @@ Là những template chỉ gồm hệ điều hành không cài đặt thêm cá
 
 Hệ điều hành đã được cài đặt sẵn một số công cụ trực quan giúp khách hàng có thể dễ dàng quản trị máy ảo của mình (DirectAdmin, WHM, Plesk):
 
-![](/images/img-template/template_2.png)
+![](/images/img-template/Screenshot_265.png)
 
 - CentOS6 64bit + WHM                                              
 - CentOS6.10 64bit + DirectAdmin                                             
@@ -61,16 +61,20 @@ Hệ điều hành đã được cài đặt sẵn một số công cụ trực 
 - CentOS7.5 64bit + WHM
 - CentOS7.6 64bit + DirectAdmin                       
 - CentOS7.6 64bit + Plesk
+- CentOS7.6 64bit + NextCloud
+- CentOS7.6 64bit + Owncloud
 - Ubuntu14.04 64bit + DirectAdmin                      
 - Ubuntu16.04 64bit + DirectAdmin                       
 - Ubuntu16.04 64bit + DirectAdmin                              
 - Ubuntu18.04 64bit + DirectAdmin
+- Ubuntu18.04 64bit + NextCloud
+- Ubuntu18.04 64bit + Owncloud
 
 ## 3. Hệ điều hành Windows + ứng dụng
 
 Nhóm các template chạy hệ điều hành windows được cài đặt các ứng dụng cơ sở dữ liệu, webserver, control panel.
 
-![](/images/img-template/template_3.png)
+![](/images/img-template/Screenshot_266.png)
 
 - Windows 2008R2 Enterprise 64bit + Plesk       
 - Windows 2012 64bit + SQL2012                  
