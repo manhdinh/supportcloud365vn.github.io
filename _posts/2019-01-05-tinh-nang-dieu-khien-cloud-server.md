@@ -53,7 +53,7 @@ Bạn thực hiện các thao tác điều khiển khác tương tự.
 
 ![](/images/img-control-cloud-server/Screenshot_246.png)
 
-Hy vọng chức năng điều khiển cloud server giúp bạn quản trị thao tác được tuận tiện hơn.
+Hy vọng chức năng điều khiển cloud server giúp bạn quản trị thao tác được thuận tiện hơn.
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>

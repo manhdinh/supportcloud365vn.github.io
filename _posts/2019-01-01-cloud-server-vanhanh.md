@@ -40,48 +40,48 @@ Sau khi nhận được thông tin cloud server tùy thuộc vào cloud server c
 
 + Click `Danh sách server`
 
-![](/images/img-vanhanh-vps/Screenshot_543.png)
+![](/images/img-vanhanh-vps/Screenshot_202.png)
 
 + Click vào tên cloud server cần xem thông tin
 
-![](/images/img-vanhanh-vps/Screenshot_544.png)
+![](/images/img-vanhanh-vps/Screenshot_247.png)
 
 Bạn lựa chọn thực hiện 1 trong các chức năng: **giám sát, remote, điều khiển, log, quản lý mật khẩu, quản lý máy ảo** theo hướng dẫn ở dưới để vận hành cloud server của mình.
 
 <a name="giamsatmayao"></a>
 ## 2. Giám sát cloud server
 
-Chức năng giám sát cho phép bạn giám giát tổng quan về cloud server RAM, DISK, CPU, Network theo cơ chế real time và có khả năng chọn khoảng thời gian view các metric (30 phút, 1 giờ, 6 giờ, 12 giờ, 24 giờ, 7 ngày, 30 ngày).
+Chức năng giám sát cho phép bạn giám giát tổng quan về cloud server RAM, DISK, CPU, Network theo cơ chế real time và có khả năng chọn khoảng thời gian view các metric (3 giờ, 6 giờ, 12 giờ, 24 giờ, 7 ngày).
 
 + Click `Giám sát` -> Lựa chọn khoảng thời gian hiển thị
 
-![](/images/img-vanhanh-vps/Screenshot_545.png)
+![](/images/img-vanhanh-vps/Screenshot_248.png)
 
 + Thông tin về RAM, Disk, CPU, Network
 
-![](/images/img-vanhanh-vps/Screenshot_546.png)
+![](/images/img-vanhanh-vps/Screenshot_249.png)
 
 <a name="consolemayao"></a>
 ## 3. Truy cập remote cloud server
 
 Chức năng remote cloud server cho phép bạn truy cập vào cloud server của mình trong trường hợp bạn thao tác trên cloud server làm mất kết nối tới cloud server, không thể remote vào cloud server từ xa thông qua các tool như Puty, MobaXterm.
 
-+ Click `Remote`
++ Click `Truy cập`
 
-![](/images/img-vanhanh-vps/Screenshot_547.png)
+![](/images/img-vanhanh-vps/Screenshot_250.png)
 
 + Hiển thị giao diện remote
 
-![](/images/img-vanhanh-vps/Screenshot_548.png)
+![](/images/img-vanhanh-vps/Screenshot_251.png)
 
 <a name="statusmayao"></a>
 ## 4. Điều khiển trạng thái cloud server
 
-Chức năng điều khiển cloud server cho phép bạn điều khiển cloud server của mình. Có các trạng thái như : Bật máy chủ ảo tương ứng với nút Start, tạm ngưng sử dụng tương ứng với Pause, muốn tiếp tục sử dụng sử dụng Resume tuy nhiên Resume chỉ được sử dụng khi máy chủ đang ở trạng thái tạm ngưng, khởi động lại máy ảo tương ứng với Restart, Tắt máy chủ tương ứng với Stop.
+Chức năng điều khiển cloud server cho phép bạn điều khiển cloud server của mình. Có các trạng thái như : Bật máy chủ ảo tương ứng với biểu tượng `Start`, tạm ngưng sử dụng tương ứng với `Pause`, muốn tiếp tục sử dụng sử dụng `Resume` tuy nhiên Resume chỉ được sử dụng khi máy chủ đang ở trạng thái tạm ngưng, khởi động lại máy ảo tương ứng với `Restart`, Tắt máy chủ tương ứng với `Stop`.
 
-+ Click `Điều khiển`
++ Click biểu tượng điều khiển
 
-![](/images/img-vanhanh-vps/Screenshot_549.png)
+![](/images/img-vanhanh-vps/Screenshot_252.png)
 
 <a name="logVPS"></a>
 ## 5. Xem log hành động đối với cloud server
@@ -90,7 +90,7 @@ Chức năng Log cho phép bạn theo dõi  thao tác với cloud server (tạo,
 
 + Click `Log`
 
-![](/images/img-vanhanh-vps/Screenshot_550.png)
+![](/images/img-vanhanh-vps/Screenshot_253.png)
 
 <a name="matkhauVPS"></a>
 ## 6. Quản lý mật khẩu cloud server
@@ -101,11 +101,11 @@ Chức năng quản lý mật khẩu cho phép bạn đổi password mới một
 
 Chỉ định mật khẩu theo ý của bạn (Lưu ý: Mật khẩu cần có ít nhất 8 ký tự bao gồm 1 ký tự thường, 1 ký tự hoa, 1 số. )
 
-![](/images/img-vanhanh-vps/Screenshot_542.png)
+![](/images/img-vanhanh-vps/Screenshot_254.png)
 
 Auto generate password
 
-![](/images/img-vanhanh-vps/Screenshot_543.png)
+![](/images/img-vanhanh-vps/Screenshot_255.png)
 
 <a name="rebuildVPS"></a>
 ## 7. Rebuid cloud server
@@ -116,36 +116,33 @@ Lưu ý: Khi rebuild dữ liệu ổ cứng sẽ không được giữ lại. M�
 
 + Click `Quản lý máy ảo`
 
-![](/images/img-vanhanh-vps/Screenshot_557.png)
-
-![](/images/img-vanhanh-vps/Screenshot_558.png)
-
+![](/images/img-vanhanh-vps/Screenshot_256.png)
 
 + Lựa chọn hệ điều hành muốn rebuild sang
 
 OS cloud server trước khi rebuild
 
-![](/images/img-vanhanh-vps/Screenshot_559.png)
+![](/images/img-vanhanh-vps/Screenshot_257.png)
 
 Chọn hệ điều hành và xác nhận rebuild
 
-![](/images/img-vanhanh-vps/Screenshot_560.png)
+![](/images/img-vanhanh-vps/Screenshot_258.png)
 
 Xác nhận và chờ quá trình rebuil VPS hoàn tất.
 
-![](/images/img-vanhanh-vps/Screenshot_561.png)
+![](/images/img-vanhanh-vps/Screenshot_259.png)
 
 + Rebuild thành công bạn sẽ nhận được thông báo qua email
 
-![](/images/img-vanhanh-vps/Screenshot_562.png)
+![](/images/img-vanhanh-vps/Screenshot_261.png)
 
 Bạn sử dụng thông tin Nhân Hòa gửi về sau khi rebuild cloud server thành công để thao tác với cloud server của mình.
 
-![](/images/img-vanhanh-vps/Screenshot_565.png)
+![](/images/img-vanhanh-vps/Screenshot_260.png)
 
 cloud server sau khi rebuild sang OS mới.
 
-![](/images/img-vanhanh-vps/Screenshot_567.png)
+![](/images/img-vanhanh-vps/Screenshot_262.png)
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
