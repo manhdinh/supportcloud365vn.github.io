@@ -1,7 +1,7 @@
 ---
 date: 2019-03-22
 title: Đổi mật khẩu portal cloud365
-video_id: 6ycoNg5Dok4
+video_id: Ikjejgn5NDE
 description: Video hướng dẫn thay đổi mật khẩu portal cloud365.
 categories:
   - Video

@@ -1,7 +1,7 @@
 ---
 date: 2019-03-22
 title: Khôi phục mật khẩu portal cloud365
-video_id: Uc9vC7be04g
+video_id: JYVyYsL9stI
 description: Video hướng dẫn khôi phục mật khẩu portal cloud365.
 categories:
   - Video

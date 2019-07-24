@@ -1,7 +1,7 @@
 ---
 date: 2019-03-22
 title: Tính năng console cloud server
-video_id: tDC7GEC_mOw
+video_id: ih1xWGprds0
 description: Video hướng dẫn bạn thao tác console cloud server.
 categories:
   - Video
@@ -11,7 +11,7 @@ type: Video
 
 Bạn không thể truy cập vào cloud server của mình, thay vì phải gửi `ticket` tới bộ phận support của nhà cung cấp <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a> đã cung cấp cho bạn tính năng <a href="https://support.cloud365.vn/video/huong-dan-dang-nhap-cloud365/" target="_blank">console</a> qua portal để bạn chủ động thao tác kiểm tra và xử lý sự cố đối với cloud server một cách nhanh nhất.
 
-![](/images/img-dieu-khien-vps-video/Screenshot_1262.png)
+![](/images/img-dieu-khien-vps-video/Screenshot_226.png)
 
 Video trên hướng dẫn bạn chi tiết các bước thực hiện.
 
