@@ -35,7 +35,7 @@ Phân quyền user trong hệ thống
 
 Cập nhật thêm các template mới
 
-![](/images/img-portal-v03/Screenshot_274.png)
+![](/images/img-portal-v03/Screenshot_275.png)
 
 Chi tiết các tính năng được thể hiện trong video mời các bạn theo dõi.
 
