@@ -1,7 +1,7 @@
 ---
 date: 2019-03-23
 title: Hướng dẫn rebuild Cloud Server Cloud365
-video_id: fW2SxWmvDtE
+video_id: BG8j4lN7Lw8
 description: Hướng dẫn rebuild Cloud Server Cloud365
 categories:
   - Video
