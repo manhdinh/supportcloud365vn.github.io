@@ -45,7 +45,7 @@ Portal yêu cầu bạn đổi mật khẩu sau khi active tài khoản, bạn c
 
 + Login thành công
 
-![](/images/img-active-account-portal/Screenshot_539.png)
+![](/images/img-active-account-portal/Screenshot_202.png)
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
