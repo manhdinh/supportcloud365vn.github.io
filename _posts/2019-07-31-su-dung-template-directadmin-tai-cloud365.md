@@ -39,10 +39,15 @@ Ubuntu18.04 64bit + DirectAdmin
 ![](/images/img-sudung-da-tai-cloud365/Screenshot_333.png)
 
 
+## 3. Đăng nhập DirectAdmin
 
+Sau khi đăng ký sử dụng hoặc chuyển đôit thành công sang tempalte DirectAdmin bạn sẽ nhận được thông tin đăng nhập VPS, thông tin đăng nhập DirectAdmin gửi vào email đăng ký của bạn. 
 
+![](/images/img-sudung-da-tai-cloud365/Screenshot_335.png)
 
+Sử dụng thông tin để đăng nhập và trang quản trị của DirectAdmin. Ở đây bạn hoàn toàn có thể chủ động thao tác quản trị hosting của mình.
 
+![](/images/img-sudung-da-tai-cloud365/Screenshot_336.png)
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
