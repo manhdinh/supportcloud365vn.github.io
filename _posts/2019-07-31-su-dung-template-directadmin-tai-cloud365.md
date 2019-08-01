@@ -28,11 +28,11 @@ Ubuntu18.04 64bit + DirectAdmin
 
 ![](/images/img-sudung-da-tai-cloud365/Screenshot_331.png)
 
-Đối với những khách hàng chưa sử dụng dịch vụ cloud VPS của cloud365 có thể đăng ký sử dụng gói cấu hình và lựa chọn các tempalte DirectAdmin phù hợp với nhu cầu sử dụng của mình bạn tham khảo và lựa chọn <a href="https://nhanhoa.com/may-chu/may-chu-cloud-server.html target="_blank">tại đây</a>!
+Đối với những khách hàng chưa sử dụng dịch vụ cloud VPS của cloud365 có thể đăng ký sử dụng gói cấu hình và lựa chọn các template DirectAdmin phù hợp với nhu cầu sử dụng của mình bạn tham khảo và lựa chọn <a href="https://nhanhoa.com/may-chu/may-chu-cloud-server.html" target="_blank">tại đây</a>!
 
 ![](/images/img-sudung-da-tai-cloud365/Screenshot_332.png)
 
-## 2. Chuyển đổi sử dụng tempalte DirectAdmin
+## 2. Chuyển đổi sử dụng template DirectAdmin
 
 Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các control panel không phải là DirectAdmin thì có thể chủ động sử dụng tính năng <a href="https://support.cloud365.vn/video/huong-dan-rebuild-cloud-server-cloud365/" target="_blank">rebuild</a> trên <a href="https://portal.cloud365.vn/" target="_blank">portal</a> quản trị của khách hàng chuyển sang DirectAdmin để sử dụng.
 
@@ -41,7 +41,7 @@ Ubuntu18.04 64bit + DirectAdmin
 
 ## 3. Đăng nhập DirectAdmin
 
-Sau khi đăng ký sử dụng hoặc chuyển đôit thành công sang tempalte DirectAdmin bạn sẽ nhận được thông tin đăng nhập VPS, thông tin đăng nhập DirectAdmin gửi vào email đăng ký của bạn. 
+Sau khi đăng ký sử dụng hoặc chuyển đôit thành công sang template DirectAdmin bạn sẽ nhận được thông tin đăng nhập VPS, thông tin đăng nhập DirectAdmin gửi vào email đăng ký của bạn. 
 
 ![](/images/img-sudung-da-tai-cloud365/Screenshot_335.png)
 
