@@ -47,6 +47,10 @@ Sau khi đăng ký sử dụng hoặc chuyển đổi thành công sang template
 
 Sử dụng thông tin để đăng nhập và trang quản trị của DirectAdmin. Ở đây bạn hoàn toàn có thể chủ động thao tác quản trị hosting của mình.
 
+```
+http://IP_VPS:2222
+```
+
 ![](/images/img-sudung-da-tai-cloud365/Screenshot_336.png)
 
 ---
