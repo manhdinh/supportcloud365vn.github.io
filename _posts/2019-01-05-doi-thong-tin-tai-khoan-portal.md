@@ -15,23 +15,23 @@ Nhân Hòa cung cấp cho bạn portal để quản trị cloud server của mì
 
 <a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
 
-![](/images/img-change-info-portal/Screenshot_568.png)
+![](/images/img-change-info-portal/Screenshot_202.png)
 
 ## Bước 2: Click `Thông tin cá nhân`
 
-![](/images/img-change-info-portal/Screenshot_580.png)
+![](/images/img-change-info-portal/Screenshot_203.png)
 
 ## Bước 3: Tùy chỉnh thay đổi thông tin cá nhân
 
-![](/images/img-change-info-portal/Screenshot_581.png)
+![](/images/img-change-info-portal/Screenshot_207.png)
 
 ## Bước 4: Chỉnh sửa thông tin - Xác nhận chỉnh sửa
 
 **Lưu ý: Bạn không thể thay đổi thông tin về email**
 
-![](/images/img-change-info-portal/Screenshot_582.png)
+![](/images/img-change-info-portal/Screenshot_208.png)
 
-![](/images/img-change-info-portal/Screenshot_583.png)
+![](/images/img-change-info-portal/Screenshot_209.png)
 
 Quá trình thay đổi thông tin cá nhân hoàn tất.
 

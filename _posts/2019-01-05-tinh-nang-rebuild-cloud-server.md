@@ -29,43 +29,43 @@ Bạn sử dụng thông tin đăng nhập bao gồm `email/password` để đă
 
 <a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
 
-![](/images/img-rebuild-vps/Screenshot_568.png)
+![](/images/img-rebuild-vps/Screenshot_202.png)
 
 <a name="chon"></a>
 ## Bước 2: Lựa chọn cloud server cần rebuild
 
 + Click `Danh sách server`
 
-![](/images/img-rebuild-vps/Screenshot_569.png)
+![](/images/img-rebuild-vps/Screenshot_231.png)
 
 + Click vào tên cloud server cần xem thông tin
 
-![](/images/img-rebuild-vps/Screenshot_570.png)
+![](/images/img-rebuild-vps/Screenshot_232.png)
 
 + Click `Quản lý máy ảo`
 
-![](/images/img-rebuild-vps/Screenshot_571.png)
+![](/images/img-rebuild-vps/Screenshot_233.png)
 
-![](/images/img-rebuild-vps/Screenshot_574.png)
+![](/images/img-rebuild-vps/Screenshot_234.png)
 
 <a name="os"></a>
 ## Bước 3: Lựa chọn hệ điều hành rebuild
 
 Bạn lựa chọn hệ điều hành muốn rebuild cho cloud server của mình.
 
-Lưu ý:
+**Lưu ý**:-
 + Khi rebuild dữ liệu ổ cứng sẽ không được giữ lại. Máy chủ sẽ chạy với hệ điều hành mà bạn xác nhận lựa chọn để rebuild.<br>
 + Bạn có thể rebuild sang hệ điều hành Windows, Linux trắng và Linux có cài đặt ứng dụng (Plesk, Direct Admin, WHM).<br>
 + Bạn không thể rebuild sang hệ điều hành Windows server có cài đặt ứng dụng.
 
-![](/images/img-rebuild-vps/Screenshot_575.png)
+![](/images/img-rebuild-vps/Screenshot_236.png)
 
 <a name="xacnhan"></a>
 ## Bước 4: Xác nhận rebuild
 
 Bạn nên đọc những cảnh bảo trước khi xác nhận rebuild.
 
-![](/images/img-rebuild-vps/Screenshot_576.png)
+![](/images/img-rebuild-vps/Screenshot_237.png)
 
 Chờ một vài phút để quá trình rebuild hoàn tất. 
 
@@ -76,20 +76,20 @@ Sau khi rebuild thành công thông tin sẽ được gửi về email của b�
 + Lựa chọn rebuild sang cloud server linux bạn vui lòng chờ khoảng 2-3 phút để hệ thống tự động gửi thông tin.<br>
 + Đối với rebuild sang cloud server windows bạn vui lòng chờ 8-10 phút để hệ thống gửi tự động gửi thông tin.
 
-![](/images/img-rebuild-vps/Screenshot_577.png)
+![](/images/img-rebuild-vps/Screenshot_238.png)
 
-![](/images/img-rebuild-vps/Screenshot_578.png)
+![](/images/img-rebuild-vps/Screenshot_239.png)
 
 <a name="kiemtra"></a>
 ## Bước 6: Kiểm tra
 
 + Cloud server trước khi rebuild
 
-![](/images/img-rebuild-vps/Screenshot_572.png)
+![](/images/img-rebuild-vps/Screenshot_212.png)
 
 + Cloud server sau khi rebuild
 
-![](/images/img-rebuild-vps/Screenshot_579.png)
+![](/images/img-rebuild-vps/Screenshot_240.png)
 
 Quá trình rebuild hoàn thành.
 

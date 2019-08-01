@@ -11,26 +11,26 @@ Nhân Hòa cung cấp cho bạn portal để quản trị cloud server của mì
 
 ## Bước 1: Đăng nhập portal
 
-+ Bạn sử dụng thông tin đăng nhập bao gồm email/password để đăng nhập
++ Bạn sử dụng thông tin đăng nhập bao gồm `email/password` để đăng nhập.
 
-![](/images/img-change-pass-portal/Screenshot_568.png)
+![](/images/img-change-pass-portal/Screenshot_202.png)
 
 ## Bước 2: Click `Thông tin cá nhân`
 
-![](/images/img-change-pass-portal/Screenshot_580.png)
+![](/images/img-change-pass-portal/Screenshot_203.png)
 
 ## Bước 3: Lựa chọn biểu tượng thay đổi mật khẩu
 
-![](/images/img-change-pass-portal/Screenshot_584.png)
+![](/images/img-change-pass-portal/Screenshot_204.png)
 
 ## Bước 4: Nhập mật khẩu cũ và xác nhận mật khẩu mới
 
 Lưu ý: Bạn có thể đặt password cá nhân và phải tuân thủ chính sách về password (độ dài tối thiểu 8 ký tự, 1 ký tự hoa, 1 thường, 1 số).
 
-![](/images/img-change-pass-portal/Screenshot_585.png)
+![](/images/img-change-pass-portal/Screenshot_205.png)
 
 
-![](/images/img-change-pass-portal/Screenshot_586.png)
+![](/images/img-change-pass-portal/Screenshot_206.png)
 
 Quá trình thay đổi mật khẩu portal hoàn tất.
 

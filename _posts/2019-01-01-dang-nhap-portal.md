@@ -23,7 +23,7 @@ Khi sử dụng dịch vụ cloud server Nhân Hòa cung cấp bạn có thể c
 
 + Đăng nhập thành công
 
-![](/images/img-login-portal/Screenshot_599.png)
+![](/images/img-login-portal/Screenshot_202.png)
 
 Quá trình login portal hoàn tất.
 

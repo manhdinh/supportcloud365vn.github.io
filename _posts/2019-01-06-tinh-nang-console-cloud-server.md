@@ -23,44 +23,40 @@ Bạn phải truy cập vào portal
 
 <a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
 
-![](/images/img-remote-cloud-server/Screenshot_600.png)
+![](/images/img-remote-cloud-server/Screenshot_202.png)
 
 + Thực hiện tại giao diện danh sách server<br>
 + Thực hiện tại giao diện chi tiết cloud server
 
 ## Cách 1: Tại giao diện danh sách server
 
-+ Click `Danh sách server`
++ Click `Server` -> `Danh sách server`
 
-![](/images/img-remote-cloud-server/Screenshot_601.png)
+![](/images/img-remote-cloud-server/Screenshot_225.png)
 
 + Tại giao diện danh sách server bạn có thể thực hiện thao tác điều khiển nhanh với cloud server của mình.
 
 + Click vào biểu tượng ở hình dưới.
 
-![](/images/img-remote-cloud-server/Screenshot_608.png)
+![](/images/img-remote-cloud-server/Screenshot_227.png)
 
 + Bạn hoàn toàn có thể thao tác trên cloud server của mình
 
-![](/images/img-remote-cloud-server/Screenshot_609.png)
+![](/images/img-remote-cloud-server/Screenshot_226.png)
 
 ## Cách 2: Tại giao diện chi tiết của cloud server
 
 + Click vào tên cloud server bạn muốn điều khiển
 
-![](/images/img-remote-cloud-server/Screenshot_604.png)
+![](/images/img-remote-cloud-server/Screenshot_228.png)
 
-+ Click chức năng `Remote`
++ Click chức năng `Truy cập` -> `Remote`
 
-![](/images/img-remote-cloud-server/Screenshot_610.png)
-
-+ Xác nhận lựa chọn
-
-![](/images/img-remote-cloud-server/Screenshot_611.png)
+![](/images/img-remote-cloud-server/Screenshot_229.png)
 
 + Bạn có thể thao tác trên cloud server
 
-![](/images/img-remote-cloud-server/Screenshot_612.png)
+![](/images/img-remote-cloud-server/Screenshot_230.png)
 
 Hy vọng tính năng năng console cloud server giúp bạn quản trị thao tác được thuận tiện hơn.
 
