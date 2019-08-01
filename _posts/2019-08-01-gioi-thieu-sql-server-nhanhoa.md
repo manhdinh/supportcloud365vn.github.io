@@ -4,7 +4,6 @@ title: Giới thiệu dịch vụ SQL-server trên Cloud Nhân Hòa
 categories:
   - cloud-app
 description: Giới thiệu dịch vụ SQL-server
- - Println trên Cloud Nhân Hòa
 type: Document
 ---
 
