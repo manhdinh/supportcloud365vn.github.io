@@ -12,7 +12,6 @@ type: Document
 
 ![](/images/img-pfsense/pfsense-05.png)
 
-Trong bất kỳ hệ thống network nào, thành phần tường lửa luôn luôn đóng một vai trò vô cùng quan trọng. Tường lửa giúp kiểm soát việc truy câp vào, ra tới hệ thống thông qua các rule, policy theo quy định. Ngoài ra, các firewall đa dụng hiện nay còn có thể thực hiện các tính năng quan trọng như : DHCP server, DNS server, VPN, routing, NAT... 
 Ffsense là một dạng tường lửa mã nguồn mở hoàn toàn miễn phí, được triển khai dưới dạng phần mềm, đáp ứng được các tính năng quan trọng. thường chỉ xuất hiện tại các firewall thương mại lớn như Cisco ASA, Checkpoint, Juniper... Pfsense có một cộng đồng phát triển rất tích cực, các bản cập nhập được bổ sung thường xuyên, nhằm cải thiện hơn nữa tính bảo mật, sự ổn định và sự linh hoạt. 
 
 Mô hình firewall pfsense thường được triển khai tại các hệ thống mạng vật lý, nhằm kiểm soát và cung cấp tính năng tới toàn bộ thiết bị mạng và máy chủ bên trong hệ thống. Một số đặc điểm nổi bật của Pfsense như : 
@@ -25,14 +24,10 @@ Mô hình firewall pfsense thường được triển khai tại các hệ thố
  - Hỗ trợ giám sát / phân tích mạng
  - Quản lý tên miền (DC), hỗ trợ tên miền động (Dynamic DNS)
  - Hỗ trợ triển khai dạng high availability - failover.
- - Tự động cập nhập Backlist
  - Đóng vai trò làm DHCP server, replay.
  - Đóng vai trò làm DNS forwarder, resolver.
- - Đóng vai trò làm IGMP proxy.
- - Đóng vai trò làm IGMP proxy.
  - Đóng vai trò làm Load banlancer - cân bằng tải cho hệ thống.
  - Đóng vai trò làm NTP cho hệ thống.
- - Đóng vai trò làm PPPoE cho hệ thống.
  - Hỗ trợ wake-on-lan
 
 ## II. Sử dụng dịch vụ Pfsense, firewall as a service trên hệ thống Cloud Nhân Hòa. 
@@ -41,17 +36,18 @@ Hiện nay, người dùng đã có thể sử dụng dịch vụ firewall Pfsen
 
 ### Cách 1 : Đăng ký mới sử dụng Pfsense Cloud365 
 
-![](/images/img-pfsense/pfsense-00.png)
-
 Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo Pfsense. 
 
+![](/images/img-pfsense/pfsense-00.png)
+
 ### Cách 2 : Chuyển đổi sử dụng Pfsense Cloud365 
+
+Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các dịch vụ khác thì có thể chủ động sử dụng tính năng rebuild trên portal quản trị, chọn rebuild với image Pfsense để sử dụng.
 
 ![](/images/img-pfsense/pfsense-01.png)
 
 ![](/images/img-pfsense/pfsense-04.png)
 
-Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các dịch vụ khác thì có thể chủ động sử dụng tính năng rebuild trên portal quản trị, chọn rebuild với image Pfsense để sử dụng.
 
 ## III. Đăng nhập và sử dụng dịch vụ firewall Pfsense
 
