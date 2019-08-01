@@ -10,7 +10,7 @@ type: Document
 
 ## I. Giới thiệu về SQL-server
 
-![](/images/img-SQL-server/sql-server-00.png)
+![](/images/img-sql-server/sql-server-00.png)
 
 SQL Server chính là một hệ quản trị dữ liệu quan hệ sử dụng câu lệnh SQL để trao đổi dữ liệu giữa máy cài SQL Server và máy Client. Một Relational Database Management System – RDBMS gồm có: databases, datase engine và các chương trình ứng dụng dùng để quản lý các bộ phận trong RDBMS và những dữ liệu khác.
 
@@ -23,32 +23,32 @@ Có 2 cách để bạn có thể sử dụng dịch vụ SQL server do Nhân H�
 
 ## II. Sử dụng dịch vụ SQL-server trên hệ thống Cloud Nhân Hòa. 
 
-Hiện nay, người dùng đã có thể sử dụng dịch vụ SQL-server trên hệ thống Cloud Nhân Hòa nhằm bảo vệ và cung cấp tính năng cho hệ thống máy ảo mình. Để sử dụng dịch vụ SQL-server - Firewall as a service. Người dùng có thể thực hiện bằng 2 cách.
+Hiện nay, người dùng đã có thể sử dụng dịch vụ SQL-server trên hệ thống Cloud Nhân Hòa. Người dùng có thể thực hiện bằng 2 cách.
 
 ### Cách 1 : Đăng ký mới sử dụng SQL-server Cloud365 
 
 Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo SQL-server. 
 
-![](/images/img-SQL-server/SQL-server-01.png)
+![](/images/img-sql-server/SQL-server-01.png)
 
 ### Cách 2 : Chuyển đổi sử dụng SQL-server Cloud365 
 
 Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các dịch vụ khác thì có thể chủ động sử dụng tính năng rebuild trên portal quản trị, chọn rebuild với image SQL-server để sử dụng.
 
-![](/images/img-SQL-server/SQL-server-02.png)
+![](/images/img-sql-server/SQL-server-02.png)
 
-![](/images/img-SQL-server/SQL-server-03.png)
+![](/images/img-sql-server/SQL-server-03.png)
 
 
 ## III. Đăng nhập và sử dụng dịch vụ SQL-server
 
 Sau khi đăng ký sử dụng hoặc chuyển đổi thành công sang template SQL-server bạn sẽ nhận được thông tin đăng nhập VPS, thông tin đăng nhập SQL-server gửi vào email đăng ký của bạn.
 
-![](/images/img-SQL-server/SQL-server-04.png)
+![](/images/img-sql-server/SQL-server-04.png)
 
 Sử dụng thông tin để đăng nhập và kiểm tra với phần mềm SQL Studio Management. Kiểm tra thông tin và sử dụng các tính năng của SQL-server đối với hệ thống của mình.
 
-![](/images/img-SQL-server/SQL-server-05.png)
+![](/images/img-sql-server/SQL-server-05.png)
 
 Hãy theo dõi các bài viết tiếp theo của Cloud Team Nhân Hòa để cập nhập các thông tin mới nhất về dịch vụ SQL server của bạn.
 
