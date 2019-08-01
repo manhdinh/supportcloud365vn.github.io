@@ -1,0 +1,65 @@
+---
+date: 2019-07-31
+title: Giới thiệu dịch vụ SQL-server trên Cloud Nhân Hòa
+categories:
+  - cloud-server
+description: Giới thiệu dịch vụ SQL-server
+ - Println trên Cloud Nhân Hòa
+type: Document
+---
+
+## I. Giới thiệu về SQL-server
+
+![](/images/img-SQL-server/sql-server-00.png)
+
+SQL Server chính là một hệ quản trị dữ liệu quan hệ sử dụng câu lệnh SQL để trao đổi dữ liệu giữa máy cài SQL Server và máy Client. Một Relational Database Management System – RDBMS gồm có: databases, datase engine và các chương trình ứng dụng dùng để quản lý các bộ phận trong RDBMS và những dữ liệu khác.
+
+SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….
+
+Hiện tại trên hệ thống Nhân Hòa Cloud đã có phiên bản SQL server 2014 chạy trên Windows server 2016, phiên bản ổn định nhất được Microsoft khuyến cáo. Bên cạnh đó, khách hàng vẫn có thể lựa chọn 2 phiên bản thông dụng hơn đó là SQL server 2012 và SQL server 2014 chạy trên Windows server 2012. 
+
+Có 2 cách để bạn có thể sử dụng dịch vụ SQL server do Nhân Hòa cung cấp: Đăng ký mới cloud server SQL server, chuyển đổi sử dụng (rebuild) cloud server SQL server
+
+
+## II. Sử dụng dịch vụ SQL-server trên hệ thống Cloud Nhân Hòa. 
+
+Hiện nay, người dùng đã có thể sử dụng dịch vụ SQL-server trên hệ thống Cloud Nhân Hòa nhằm bảo vệ và cung cấp tính năng cho hệ thống máy ảo mình. Để sử dụng dịch vụ SQL-server - Firewall as a service. Người dùng có thể thực hiện bằng 2 cách.
+
+### Cách 1 : Đăng ký mới sử dụng SQL-server Cloud365 
+
+Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo SQL-server. 
+
+![](/images/img-SQL-server/SQL-server-01.png)
+
+### Cách 2 : Chuyển đổi sử dụng SQL-server Cloud365 
+
+Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các dịch vụ khác thì có thể chủ động sử dụng tính năng rebuild trên portal quản trị, chọn rebuild với image SQL-server để sử dụng.
+
+![](/images/img-SQL-server/SQL-server-02.png)
+
+![](/images/img-SQL-server/SQL-server-03.png)
+
+
+## III. Đăng nhập và sử dụng dịch vụ SQL-server
+
+Sau khi đăng ký sử dụng hoặc chuyển đổi thành công sang template SQL-server bạn sẽ nhận được thông tin đăng nhập VPS, thông tin đăng nhập SQL-server gửi vào email đăng ký của bạn.
+
+![](/images/img-SQL-server/SQL-server-04.png)
+
+Sử dụng thông tin để đăng nhập và kiểm tra với phần mềm SQL Studio Management. Kiểm tra thông tin và sử dụng các tính năng của SQL-server đối với hệ thống của mình.
+
+![](/images/img-SQL-server/SQL-server-05.png)
+
+Hãy theo dõi các bài viết tiếp theo của Cloud Team Nhân Hòa để cập nhập các thông tin mới nhất về dịch vụ SQL server của bạn.
+
+Xin cảm ơn !
+
+---
+<a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
+
+Khi cần hỗ trợ xin liên hệ với chúng tôi:
+
+**Công ty phần mềm Nhân Hòa**
+- Trụ sở Hà Nội: 32 Võ Văn Dũng, Đống Đa, Hà Nội
+- Chi nhánh HCM: 270 Cao Thắng (nối dài), Phường 12,Quận 10, TP HCM
+- Hotline: `19006680`
