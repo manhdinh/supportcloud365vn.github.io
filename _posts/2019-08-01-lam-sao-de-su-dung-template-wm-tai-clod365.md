@@ -27,7 +27,7 @@ Khi bạn đã sử dụng các dịch vụ của các nhà cung cấp hosting k
 
 ## 2. Chuyển đổi sử dụng WHM control pannel
 
-Khi bạn đang sử dụng dịch vụ <a href="https://cloud365.vn/" target="_blank">cloud vps</a> bạn hoàn toàn có thể chủ động chuyển sang WHM control pannel phục vụ việc quản trị hosting của mình. Cloud365 đã phát triển tính năng <a href="https://support.cloud365.vn/video/huong-dan-rebuild-cloud-server-cloud365/" target="_blank">rebuild</a>trên<a href="https://portal.cloud365.vn/" target="_blank">portal</a> giúp khách hàng chủ động cài đặt lại hệ điều hành hoặc chuyển đổi sang hệ điều hành khác.
+Khi bạn đang sử dụng dịch vụ <a href="https://cloud365.vn/" target="_blank">cloud vps</a> bạn hoàn toàn có thể chủ động chuyển sang WHM control pannel phục vụ việc quản trị hosting của mình. Cloud365 đã phát triển tính năng <a href="https://support.cloud365.vn/video/huong-dan-rebuild-cloud-server-cloud365/" target="_blank">rebuild</a> trên <a href="https://portal.cloud365.vn/" target="_blank">portal</a> giúp khách hàng chủ động cài đặt lại hệ điều hành hoặc chuyển đổi sang hệ điều hành khác.
 
 ![](/images/img-ls-su-dung-whm/Screenshot_341.png)
 
