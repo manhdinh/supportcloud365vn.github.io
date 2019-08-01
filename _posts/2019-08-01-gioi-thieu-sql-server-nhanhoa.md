@@ -36,7 +36,7 @@ Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo SQL-server.
 
 ![](/images/img-sql-server/sql-server-02.png)
 
-![](/images/img-sql-server/SQL-server-03.png)
+![](/images/img-sql-server/sql-server-03.png)
 
 
 ## III. Đăng nhập và sử dụng dịch vụ SQL-server
