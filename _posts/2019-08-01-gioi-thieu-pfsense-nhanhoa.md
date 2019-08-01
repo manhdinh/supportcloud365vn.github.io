@@ -12,7 +12,7 @@ type: Document
 
 ![](/images/img-pfsense/pfsense-05.png)
 
-Ffsense là một dạng tường lửa mã nguồn mở hoàn toàn miễn phí, được triển khai dưới dạng phần mềm, đáp ứng được các tính năng quan trọng. thường chỉ xuất hiện tại các firewall thương mại lớn như Cisco ASA, Checkpoint, Juniper... Pfsense có một cộng đồng phát triển rất tích cực, các bản cập nhập được bổ sung thường xuyên, nhằm cải thiện hơn nữa tính bảo mật, sự ổn định và sự linh hoạt. 
+**Ffsense** là một dạng tường lửa mã nguồn mở hoàn toàn miễn phí, được triển khai dưới dạng phần mềm, đáp ứng được các tính năng quan trọng. thường chỉ xuất hiện tại các firewall thương mại lớn như Cisco ASA, Checkpoint, Juniper... Pfsense có một cộng đồng phát triển rất tích cực, các bản cập nhập được bổ sung thường xuyên, nhằm cải thiện hơn nữa tính bảo mật, sự ổn định và sự linh hoạt. 
 
 Mô hình firewall pfsense thường được triển khai tại các hệ thống mạng vật lý, nhằm kiểm soát và cung cấp tính năng tới toàn bộ thiết bị mạng và máy chủ bên trong hệ thống. Một số đặc điểm nổi bật của Pfsense như : 
  - Hoàn toàn miễn phí.
