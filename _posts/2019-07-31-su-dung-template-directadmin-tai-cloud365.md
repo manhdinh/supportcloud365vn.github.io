@@ -41,7 +41,7 @@ Ubuntu18.04 64bit + DirectAdmin
 
 ## 3. Đăng nhập DirectAdmin
 
-Sau khi đăng ký sử dụng hoặc chuyển đôit thành công sang template DirectAdmin bạn sẽ nhận được thông tin đăng nhập VPS, thông tin đăng nhập DirectAdmin gửi vào email đăng ký của bạn. 
+Sau khi đăng ký sử dụng hoặc chuyển đổi thành công sang template DirectAdmin bạn sẽ nhận được thông tin đăng nhập VPS, thông tin đăng nhập DirectAdmin gửi vào email đăng ký của bạn. 
 
 ![](/images/img-sudung-da-tai-cloud365/Screenshot_335.png)
 
