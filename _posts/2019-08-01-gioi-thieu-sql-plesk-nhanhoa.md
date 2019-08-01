@@ -19,14 +19,14 @@ Plesk là Control Panel quản trị Hosting trên cả Windows và Linux toàn 
  - Bảo mật thông tin khách hàng.
  - Khách hàng chủ động cho việc quản trị cloud server Plesk.
  - Plesk hỗ trợ trên cả Linux(CentOS) và Windows.
- 
-Có 2 cách để bạn có thể sử dụng dịch vụ Plesk trên hệ điều hành Windows do Nhân Hòa cung cấp: Đăng ký mới cloud server Plesk, chuyển đổi sử dụng (rebuild) cloud server Plesk
 
 
 ## II. Sử dụng dịch vụ Plesk trên hệ thống Cloud Nhân Hòa. 
 
 Hiện nay, người dùng đã có thể sử dụng dịch vụ Plesk trên hệ điều hành Windows trên hệ thống Cloud Nhân Hòa. Người dùng có thể thực hiện bằng 2 cách.
-
+ - Đăng ký mới cloud server Plesk server
+ - Chuyển đổi sử dụng (rebuild) cloud server Plesk server
+ 
 ### Cách 1 : Đăng ký mới sử dụng Plesk Cloud365 
 
 Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo Plesk tại mục VPS Windows.
@@ -48,7 +48,7 @@ Sau khi đăng ký sử dụng hoặc chuyển đổi thành công sang template
 
 ![](/images/img-sql-plesk/sql-plesk-04.png)
 
-Sử dụng thông tin để đăng nhập và kiểm tra với phần mềm SQL Studio Management. Kiểm tra thông tin và sử dụng các tính năng của Plesk đối với hệ thống của mình.
+Sử dụng thông tin để đăng nhập trên web browser với đường link https://IP::8443/. Kiểm tra thông tin và sử dụng các tính năng của Plesk đối với hệ thống của mình.
 
 ![](/images/img-sql-plesk/sql-plesk-05.png)
 

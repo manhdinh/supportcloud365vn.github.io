@@ -18,24 +18,23 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 
 Hiện tại trên hệ thống Nhân Hòa Cloud đã có phiên bản SQL server 2014 chạy trên Windows server 2016, phiên bản ổn định nhất được Microsoft khuyến cáo. Bên cạnh đó, khách hàng vẫn có thể lựa chọn 2 phiên bản thông dụng hơn đó là SQL server 2012 và SQL server 2014 chạy trên Windows server 2012. 
 
-Có 2 cách để bạn có thể sử dụng dịch vụ SQL server do Nhân Hòa cung cấp: Đăng ký mới cloud server SQL server, chuyển đổi sử dụng (rebuild) cloud server SQL server
-
-
 ## II. Sử dụng dịch vụ SQL-server trên hệ thống Cloud Nhân Hòa. 
 
 Hiện nay, người dùng đã có thể sử dụng dịch vụ SQL-server trên hệ thống Cloud Nhân Hòa. Người dùng có thể thực hiện bằng 2 cách.
-
+ - Đăng ký mới cloud server SQL server
+ - Chuyển đổi sử dụng (rebuild) cloud server SQL server
+ 
 ### Cách 1 : Đăng ký mới sử dụng SQL-server Cloud365 
 
 Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo SQL-server. 
 
-![](/images/img-sql-server/SQL-server-01.png)
+![](/images/img-sql-server/sql-server-01.png)
 
 ### Cách 2 : Chuyển đổi sử dụng SQL-server Cloud365 
 
 Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các dịch vụ khác thì có thể chủ động sử dụng tính năng rebuild trên portal quản trị, chọn rebuild với image SQL-server để sử dụng.
 
-![](/images/img-sql-server/SQL-server-02.png)
+![](/images/img-sql-server/sql-server-02.png)
 
 ![](/images/img-sql-server/SQL-server-03.png)
 
@@ -44,11 +43,11 @@ Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo SQL-server.
 
 Sau khi đăng ký sử dụng hoặc chuyển đổi thành công sang template SQL-server bạn sẽ nhận được thông tin đăng nhập VPS, thông tin đăng nhập SQL-server gửi vào email đăng ký của bạn.
 
-![](/images/img-sql-server/SQL-server-04.png)
+![](/images/img-sql-server/sql-server-04.png)
 
 Sử dụng thông tin để đăng nhập và kiểm tra với phần mềm SQL Studio Management. Kiểm tra thông tin và sử dụng các tính năng của SQL-server đối với hệ thống của mình.
 
-![](/images/img-sql-server/SQL-server-05.png)
+![](/images/img-sql-server/sql-server-05.png)
 
 Hãy theo dõi các bài viết tiếp theo của Cloud Team Nhân Hòa để cập nhập các thông tin mới nhất về dịch vụ SQL server của bạn.
 
