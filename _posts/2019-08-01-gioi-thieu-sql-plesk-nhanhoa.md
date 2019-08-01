@@ -1,9 +1,9 @@
 ---
 date: 2019-08-01
-title: Giới thiệu dịch vụ Plesk sử dụng Plesk trên Cloud Nhân Hòa
+title: Giới thiệu dịch vụ Plesk trên Cloud Nhân Hòa
 categories:
-  - cloud-server
-description: Giới thiệu dịch vụ Plesk sử dụng Plesk
+  - cloud-app
+description: Giới thiệu dịch vụ Plesk trên Cloud Nhân Hòa
  - Println trên Cloud Nhân Hòa
 type: Document
 ---

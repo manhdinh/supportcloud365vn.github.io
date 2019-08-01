@@ -2,7 +2,7 @@
 date: 2019-07-31
 title: Giới thiệu dịch vụ SQL-server trên Cloud Nhân Hòa
 categories:
-  - cloud-server
+  - cloud-app
 description: Giới thiệu dịch vụ SQL-server
  - Println trên Cloud Nhân Hòa
 type: Document
