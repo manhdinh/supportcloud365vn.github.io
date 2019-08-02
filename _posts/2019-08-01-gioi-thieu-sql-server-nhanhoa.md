@@ -1,9 +1,9 @@
 ---
 date: 2019-07-31
-title: Giới thiệu dịch vụ SQL-server trên Cloud Nhân Hòa
+title: Sử dụng template SQL-server trên Cloud Nhân Hòa
 categories:
   - cloud-app
-description: Giới thiệu dịch vụ SQL-server trên Cloud Nhân Hòa
+description: Sử dụng template SQL-server trên Cloud Nhân Hòa
 type: Document
 ---
 
@@ -15,7 +15,11 @@ SQL Server chính là một hệ quản trị dữ liệu quan hệ sử dụng 
 
 SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….
 
-Hiện tại trên hệ thống Nhân Hòa Cloud đã có phiên bản SQL server 2014 chạy trên Windows server 2016, phiên bản ổn định nhất được Microsoft khuyến cáo. Bên cạnh đó, khách hàng vẫn có thể lựa chọn 2 phiên bản thông dụng hơn đó là SQL server 2012 và SQL server 2014 chạy trên Windows server 2012. 
+Hiện tại trên hệ thống Nhân Hòa Cloud đã có template SQL server sau :
+ - SQL server 2014 trên Windows server 2016
+ - SQL server 2014 trên Windows server 2012
+ - SQL server 2012 trên Windows server 2012
+
 
 ## II. Sử dụng dịch vụ SQL-server trên hệ thống Cloud Nhân Hòa. 
 
