@@ -1,6 +1,6 @@
 ---
 date: 2019-08-01
-title: Làm sao để sử dụng template WHM control pannel tại Cloud365?
+title: Sử dụng template WHM control pannel tại Cloud365
 categories:
   - cloud-app
 description: Hướng dẫn khách hàng lựa chọn sử dụng template WHM control pannel tại cloud365
