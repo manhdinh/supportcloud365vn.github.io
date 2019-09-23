@@ -1,3 +1,5 @@
+- name: News
+  link: https://news.cloud365.vn
 - name: Hướng dẫn
   link: /
 - name: Videos
