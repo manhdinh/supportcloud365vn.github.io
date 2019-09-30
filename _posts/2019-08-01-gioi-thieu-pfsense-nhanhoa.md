@@ -1,10 +1,9 @@
 ---
 date: 2019-07-31
-title: Giới thiệu dịch vụ firewall- Pfsense trên Cloud Nhân Hòa
+title: Sử dụng template firewall- Pfsense trên Cloud Nhân Hòa
 categories:
-  - cloud-server
-description: Giới thiệu dịch vụ Pfsense
- - Println trên Cloud Nhân Hòa
+  - cloud-app
+description: Sử dụng template Pfsense trên Cloud Nhân Hòa
 type: Document
 ---
 
