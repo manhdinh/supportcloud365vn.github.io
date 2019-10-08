@@ -59,7 +59,7 @@ Thường thì các server có port SSH mặc định là `22` người quản t
 
 ![](/images/img-mobarxterm/Screenshot_526.png)
 
-Nhập mật khẩu kết nối tới server của bạn. Một điều chú ý khi nhập mật khẩu sẽ không hiển thị dấu `*` như các công cụ khác bạn nhập chính xác hoặc bạn có thể `paste` mật khẩu vào màn hình ở dưới.
+Nhập mật khẩu kết nối tới server của bạn. Một điều chú ý khi nhập mật khẩu sẽ không hiển thị dấu `********` như các công cụ khác bạn nhập chính xác hoặc bạn có thể `paste` mật khẩu vào màn hình ở dưới.
 
 ![](/images/img-mobarxterm/Screenshot_527.png)
 
@@ -75,7 +75,7 @@ Click `Session` -> `Telnet` -> Nhập các thông tin server -> `OK`
 
 ![](/images/img-mobarxterm/Screenshot_520.png)
 
-Nhập mật khẩu của thiết bị. Mật khẩu không hiển thị dạng `*` bạn nhập chính xác mật khẩu hoặc paste vào màn hình ở dưới.
+Nhập mật khẩu của thiết bị. Mật khẩu không hiển thị dạng `********` bạn nhập chính xác mật khẩu hoặc paste vào màn hình ở dưới.
 
 ![](/images/img-mobarxterm/Screenshot_521.png)
 
