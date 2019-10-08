@@ -1,5 +1,5 @@
 ---
-date: 2019-09-30
+date: 2019-10-08
 title: Hướng dẫn sử dụng MobaXterm trên windows
 categories:
   - cloud-server
