@@ -13,7 +13,9 @@ Khi làm việc với các hệ điều hành như `Linux`, `Windows`... hay qu�
 
 ## 1. Tải và cài đặt MobaXterm
 
-Truy cập https://mobaxterm.mobatek.net/download.html Lựa chọn bản miễn phí cho hệ điều hành windows để tải xuống - giải nén - cài đặt.
+Truy cập https://mobaxterm.mobatek.net/download.html 
+
+Lựa chọn bản miễn phí cho hệ điều hành windows để tải xuống - giải nén - cài đặt.
 
 ![](/images/img-mobarxterm/Screenshot_511.png)
 
