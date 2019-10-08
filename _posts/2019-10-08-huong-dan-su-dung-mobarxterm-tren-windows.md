@@ -57,11 +57,15 @@ Click `Session` -> `SSH` -> Nhập các thông tin server (IP, username, port)  
 
 Thường thì các server có port SSH mặc định là `22` người quản trị có thể thay đổi port để nâng cao bảo mật bạn chú ý nhập đúng thông tin port.
 
-![](/images/img-mobarxterm/Screenshot_518.png)
+![](/images/img-mobarxterm/Screenshot_526.png)
+
+Nhập mật khẩu kết nối tới server của bạn. Một điều chú ý khi nhập mật khẩu sẽ không hiển thị dấu `********` như các công cụ khác bạn nhập chính xác hoặc bạn có thể `paste` mật khẩu vào màn hình ở dưới.
+
+![](/images/img-mobarxterm/Screenshot_527.png)
 
 Kết nối ssh thành công
 
-![](/images/img-mobarxterm/Screenshot_519.png)
+![](/images/img-mobarxterm/Screenshot_528.png)
 
 ### 2.2. Thực hiện telnet tới một thiết bị mạng
 
@@ -71,7 +75,7 @@ Click `Session` -> `Telnet` -> Nhập các thông tin server -> `OK`
 
 ![](/images/img-mobarxterm/Screenshot_520.png)
 
-Nhập mật khẩu của thiết bị
+Nhập mật khẩu của thiết bị. Mật khẩu không hiển thị dạng `********` bạn nhập chính xác mật khẩu hoặc paste vào màn hình ở dưới.
 
 ![](/images/img-mobarxterm/Screenshot_521.png)
 
@@ -98,6 +102,8 @@ Click `Tools` -> `Ports scanner` -> Nhập thông tin IP bạn muốn kiểm tra
 Kết quả là server kiểm tra đang mở port nào.
 
 ![](/images/img-mobarxterm/Screenshot_525.png)
+
+Trên là những hướng dẫn cơ bản cho bạn để sử dụng công cụ MobaXterm.
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
