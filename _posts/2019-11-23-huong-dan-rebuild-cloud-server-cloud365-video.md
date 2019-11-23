@@ -1,7 +1,7 @@
 ---
-date: 2019-03-23
+date: 2019-11-23
 title: Hướng dẫn rebuild Cloud Server Cloud365
-video_id: BG8j4lN7Lw8
+video_id: kFIk_NnEOII
 description: Hướng dẫn rebuild Cloud Server Cloud365
 categories:
   - Video
@@ -11,8 +11,9 @@ type: Video
 
 Bạn muốn cài lại OS của CloudServer?
 
-Trước đây bạn cần phải liên hệ với bộ phận chăm sóc khách hàng để có thể cài đặt lại server của bạn, hiện tại đối với CloudServer của Cloud365 khách hàng có thể hoàn toàn chủ động thao tác trên portal với các bước rebuild vô cùng đơn giản và thuận tiện
+Trước đây bạn cần phải liên hệ với bộ phận chăm sóc khách hàng để có thể cài đặt lại server của bạn, hiện tại đối với Cloud Server của Cloud365 khách hàng có thể hoàn toàn chủ động thao tác trên portal với các bước rebuild vô cùng đơn giản và thuận tiện
 
+![](/images/img-rebuild-vps/screenshot_9.png)
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
