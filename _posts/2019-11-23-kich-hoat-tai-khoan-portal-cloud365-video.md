@@ -1,7 +1,7 @@
 ---
-date: 2019-03-22
+date: 2019-11-23
 title: Kích hoạt tài khoản portal cloud365
-video_id: UMwTORX-IpA
+video_id: 8NqA_nDEiEo
 description: Video hướng dẫn các thao tác người dùng kích hoạt tài khoản portal cloud365.
 categories:
   - Video
@@ -9,11 +9,10 @@ resources:
 type: Video
 ---
 
-Bạn là khách hàng mới đăng ký sử dụng dịch vụ `cloud server` của <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>, sau khi hoàn tất các bước đăng ký bạn sẽ nhận sử dụng thông tin kích hoạt tài khoản <a href="https://portal.cloud365.vn/user/login/" target="_blank">portal</a> quản trị cloud server của mình. Chỉ mới một số click chuột bạn có thể kích hoạt tài khoản portal của mình.
+Bạn là khách hàng mới đăng ký sử dụng dịch vụ `cloud server` của <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>, sau khi hoàn tất các bước đăng ký bạn sẽ nhận sử dụng thông tin kích hoạt tài khoản <a href="https://portal.cloud365.vn/user/login/" target="_blank">portal</a> để quản trị cloud server của mình. Làm theo hướng dẫn ở video trên để có thể kích hoạt tài khoản của mình.
 
 ![](/images/img-kich-hoat-tai-khoan-video/Screenshot_1264.png)
 
-Video trên sẽ hướng dẫn chi tiết các bước thực hiện.
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 
