@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31
+date: 2019-12-05
 title: Sử dụng template SQL-server trên Cloud Nhân Hòa
 categories:
   - cloud-app
@@ -37,9 +37,9 @@ Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo SQL-server.
 
 Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các dịch vụ khác thì có thể chủ động sử dụng tính năng rebuild trên portal quản trị, chọn rebuild với image SQL-server để sử dụng.
 
-![](/images/img-sql-server/sql-server-02.png)
+![](/images/img-sql-server/screenshot.png)
 
-![](/images/img-sql-server/sql-server-03.png)
+![](/images/img-sql-server/screenshot_1.png)
 
 
 ## III. Đăng nhập và sử dụng dịch vụ SQL-server

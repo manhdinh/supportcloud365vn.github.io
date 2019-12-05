@@ -1,5 +1,5 @@
 ---
-date: 2019-08-02
+date: 2019-12-05
 title: Sử dụng template OwnCloud tại Cloud365
 categories:
   - cloud-app
@@ -45,13 +45,17 @@ Ubuntu18.04 64bit + OwnCloud
 Đối với những khách hàng đang sử dụng dịch cloud VPS của cloud365 thì có thể chủ động sử dụng tính năng <a href="https://support.cloud365.vn/video/huong-dan-rebuild-cloud-server-cloud365/" target="_blank">rebuild</a> trên <a href="https://portal.cloud365.vn/" target="_blank">portal</a> quản trị của khách hàng chuyển sang Owncloud để sử dụng.
 
 <p align="center">
-<img src="/images/img-owncloud/owncloud-003.png">
+<img src="/images/img-owncloud/screenshot.png">
 </p>
 
 - Lựa chọn template OwnCloud:
 
 <p align="center">
-<img src="/images/img-owncloud/owncloud-004.png">
+<img src="/images/img-owncloud/screenshot_1.png">
+</p>
+
+<p align="center">
+<img src="/images/img-owncloud/screenshot_2.png">
 </p>
 
 

@@ -1,5 +1,5 @@
 ---
-date: 2019-01-31
+date: 2019-12-05
 title: Giới thiệu SQL Server trong Cloud Server
 categories:
   - cloud-app
@@ -42,7 +42,10 @@ Microsoft SQL Server đã được cài đặt sẵn trên Cloud của cloud365,
 - Windows Server 2008 + Plesk (SQL 2012)
 - Windows Server 2012 + SQL 2012
 - Windows Server 2012 + SQL 2014
+- Windows Server 2012 + SQL 2016
 - Windows Server 2012 + Plesk (SQL 2012)
+- Windows Server 2012 + Plesk (SQL 2016)
+- Windows Server 2012R2 + Plesk (SQL 2012)
 - Windows Server 2016 + SQL 2014
 - Windows Server 2016 + Plesk (SQL 2014)
 
@@ -54,19 +57,20 @@ Hoặc có thể liên hệ trực tiếp với <a href="https://nhanhoa.com/lie
 
 **Với trường hợp đang sử dụng dịch vụ tại Cloud365** : người dùng có thể tự rebuild Cloud để sử dụng SQL Server (với Cloud từ gói C trở lên):
 
-<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud6.png)</span>
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/screenshot.png)</span>
 
-Chọn máy ảo, click vào `Quản lý máy aor` và chọn `REBUILD`
+Chọn `REBUILD`
 
-<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud7.png)</span>
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/screenshot_1.png)</span>
 
 Trong phần Hệ điều hành, chọn Windows App, sau đó chọn template muốn sử dụng
 
-<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud8.png)</span>
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/screenshot_2.png)</span>
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/screenshot_3.png)</span>
 
-Cần xác nhận lại nội dung `REBUILD` lại máy ảo sẽ xóa toàn bộ dữ liệu trên máy ảo cũ
+Click `REBUILD` để bắt đầu rebuild máy ảo. Lưu ý, dữ liệu máy ảo sẽ bị mất hết.
 
-<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/sql_cloud9.png)</span>
+<span style="display:block;text-align:center">![](/images/img-sql-cloud-server/screenshot_4.png)</span>
 
 Sau khi rebuild thành công, thông tin máy ảo sẽ được gửi tới người dùng.
 
