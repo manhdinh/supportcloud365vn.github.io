@@ -1,5 +1,5 @@
 ---
-date: 2019-01-25
+date: 2019-12-05
 title: WHM Control Panel tại Cloud365
 categories:
   - cloud-app
@@ -67,7 +67,7 @@ Bạn kiểm tra email để lấy thông tin.
 
 Đăng nhập vào <a href="https://portal.cloud365.vn/user/login/" target="_blank">Portal Cloud Nhân Hòa</a> để quản trị server.
 
-![whm](/images/img-whm-cpanel/02.png)
+![whm](/images/img-whm-cpanel/screenshot.png)
 
 ## 3.2. Thực hiện setup WHM CPanel trên WEBGUI
 

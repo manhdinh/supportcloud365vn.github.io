@@ -1,5 +1,5 @@
 ---
-date: 2019-02-21
+date: 2019-12-05
 title: Template được cung cấp bởi Cloud 365
 categories:
   - cloud-app
@@ -13,7 +13,7 @@ Mỗi hệ điều hành yêu cầu thông số cấu hình tối thiểu nên t
 
 Khách hàng đang sử dụng dịch vụ của `Cloud365` muốn chuyển đổi sang các template khác ở phần <a href="https://support.cloud365.vn/cloud-server/tinh-nang-rebuild-cloud-server/" target="_blank">rebuild </a> máy ảo trên Nhân Hòa <a href="https://portal.cloud365.vn/" target="_blank">portal</a> :
 
-![](/images/img-template/Screenshot_263.png)
+![](/images/img-template/screenshot.png)
 
 Để tiện cho việc tìm kiếm, phân loại, Cloud365 chia các template thành các nhóm sau: 
 
@@ -21,16 +21,14 @@ Khách hàng đang sử dụng dịch vụ của `Cloud365` muốn chuyển đ�
 
 Là những template chỉ gồm hệ điều hành không cài đặt thêm các ứng dụng khác. Bao gồm các hệ điều hành sau:
 
-![](/images/img-template/Screenshot_264.png)
+![](/images/img-template/screenshot_1.png)
 
 
-- RedHat Enterprise Linux 6.8
-- RedHat Enterprise Linux 7.2
-- RedHat Enterprise Linux 7.6
-- CentOS 6.9
-- CentOS 6.10
+- CentOS 6.9 64bit
+- CentOS 6.10 64bit
 - CentOS 6 32bit
-- CentOS 7.5
+- CentOS 7.7 64bit
+- CentOS 8.0 64bit
 - Ubuntu 12.04 64bit
 - Ubuntu 14.04 64bit
 - Ubuntu 16.04 64bit
@@ -52,17 +50,22 @@ Là những template chỉ gồm hệ điều hành không cài đặt thêm cá
 
 Hệ điều hành đã được cài đặt sẵn một số công cụ trực quan giúp khách hàng có thể dễ dàng quản trị máy ảo của mình (DirectAdmin, WHM, Plesk):
 
-![](/images/img-template/Screenshot_265.png)
-
-- CentOS6 64bit + WHM                                              
-- CentOS6.10 64bit + DirectAdmin                                             
+![](/images/img-template/screenshot_2.png)
+                                             
+- CentOS6.10 64bit + DirectAdmin                                           
+- CentOS6 64bit + WHM                                           
 - CentOS6.10 64bit + Plesk
-- CentOS7.5 64bit + DirectAdmin                    
-- CentOS7.5 64bit + WHM
 - CentOS7.6 64bit + DirectAdmin                       
+- CentOS7.5 64bit + WHM                       
 - CentOS7.6 64bit + Plesk
 - CentOS7.6 64bit + NextCloud
 - CentOS7.6 64bit + Owncloud
+- CentOS7.7 64bit + LEMP
+- CentOS7.7 64bit + LAMP
+- CentOS7.7 64bit + Zabbix
+- CentOS7.7 64bit + Nukeviet
+- CentOS7.7 64bit + VestaCP
+- CentOS7.7 64bit + Pritunl
 - Ubuntu14.04 64bit + DirectAdmin                      
 - Ubuntu16.04 64bit + DirectAdmin                       
 - Ubuntu16.04 64bit + DirectAdmin                              
@@ -74,17 +77,27 @@ Hệ điều hành đã được cài đặt sẵn một số công cụ trực 
 
 Nhóm các template chạy hệ điều hành windows được cài đặt các ứng dụng cơ sở dữ liệu, webserver, control panel.
 
-![](/images/img-template/Screenshot_266.png)
+![](/images/img-template/screenshot_3.png)
 
-- Windows 2008R2 Enterprise 64bit + Plesk       
-- Windows 2012 64bit + SQL2012                  
-- Windows 2012 64bit + SQL2014                
-- Windows 2012R2 64bit Standard + SQL2012 + Plesk 
-- Windows 2012R2 64bit Standard + SQL2014 + Plesk             
-- Windows 2016 64bit Standard + SQL2014         
-- Windows 2016 64bit Standard + SQL2014 + Plesk                   
+- Windows Server 2008 + Plesk (SQL 2012)
+- Windows Server 2012 + SQL 2012
+- Windows Server 2012 + SQL 2014
+- Windows Server 2012 + SQL 2016
+- Windows Server 2012 + Plesk (SQL 2012)
+- Windows Server 2012 + Plesk (SQL 2016)
+- Windows Server 2012R2 + Plesk (SQL 2012)
+- Windows Server 2016 + SQL 2014
+- Windows Server 2016 + Plesk (SQL 2014)               
 
-Cloud365 liên tục phát triển và đóng gói các tempalte mới phục vụ nhu cầu sử dụng của quý khách hàng.
+## 4. Ứng dụng khác
+
+Nhóm các ứng dụng chạy trên các hệ điều hành khác.
+
+![](/images/img-template/screenshot_4.png)
+
+- pfSense 2.3.4
+
+Cloud365 liên tục phát triển và đóng gói các template mới phục vụ nhu cầu sử dụng của quý khách hàng.
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>

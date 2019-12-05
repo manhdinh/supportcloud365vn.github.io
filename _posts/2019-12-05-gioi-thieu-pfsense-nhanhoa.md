@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31
+date: 2019-12-05
 title: Sử dụng template firewall- Pfsense trên Cloud Nhân Hòa
 categories:
   - cloud-app
@@ -37,15 +37,15 @@ Hiện nay, người dùng đã có thể sử dụng dịch vụ firewall Pfsen
 
 Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo Pfsense. 
 
-![](/images/img-pfsense/pfsense-00.png)
+![](/images/img-pfsense/screenshot.png)
 
 ### Cách 2 : Chuyển đổi sử dụng Pfsense Cloud365 
 
 Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các dịch vụ khác thì có thể chủ động sử dụng tính năng rebuild trên portal quản trị, chọn rebuild với image Pfsense để sử dụng.
 
-![](/images/img-pfsense/pfsense-01.png)
+![](/images/img-pfsense/screenshot_1.png)
 
-![](/images/img-pfsense/pfsense-04.png)
+![](/images/img-pfsense/screenshot_2.png)
 
 
 ## III. Đăng nhập và sử dụng dịch vụ firewall Pfsense

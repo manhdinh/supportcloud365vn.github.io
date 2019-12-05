@@ -1,5 +1,5 @@
 ---
-date: 2019-08-01
+date: 2019-12-05
 title: Sử dụng template Plesk trên Cloud Nhân Hòa
 categories:
   - cloud-app
@@ -36,9 +36,9 @@ Truy cập tới trang https://nhanhoa.com và đăng ký máy ảo Plesk tại 
 
 Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các dịch vụ khác thì có thể chủ động sử dụng tính năng rebuild trên portal quản trị, chọn rebuild với image Plesk trên Windows để sử dụng.
 
-![](/images/img-sql-plesk/sql-plesk-02.png)
+![](/images/img-sql-plesk/screenshot.png)
 
-![](/images/img-sql-plesk/sql-plesk-03.png)
+![](/images/img-sql-plesk/screenshot_1.png)
 
 
 ## III. Đăng nhập và sử dụng dịch vụ Plesk

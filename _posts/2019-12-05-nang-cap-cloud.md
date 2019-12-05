@@ -1,5 +1,5 @@
 ---
-date: 2019-02-13
+date: 2019-12-05
 title: Hướng dẫn nâng cấp cấu hình Cloud Server
 categories:
   - cloud-app
@@ -49,18 +49,18 @@ Dưới đây, chỉ liệt kê ra các trường hợp liên quan đến việc
 - Sau khi đăng nhập thành công VPS, người dùng click chuột vào máy ảo cần thống kê, sau đó thông tin tài nguyên máy ảo sẽ hiện ra ở phía bên phải.
 - Bên dưới là một ví dụ về trường hợp máy ảo sử dụng 100% tài nguyên CPU, dẫn đến không ổn định dịch vụ:
 
-<span style="display:block;text-align:center">![](/images/img-upgrade-cloud/upgrade_2.png)</span>
+<span style="display:block;text-align:center">![](/images/img-upgrade-cloud/screenshot.png)</span>
 
 
 ## Cách để nâng cấp cấu hình Cloud server
 
-Bước 1: Khách hàng truy cập vào trang chủ <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>để tham khảo bảng giá nâng cấp cấu hình của dịch vụ.
+Bước 1: Khách hàng truy cập vào trang chủ <a href="https://nhanhoa.com/" target="_blank">nhanhoa.com</a>để tham khảo bảng giá nâng cấp cấu hình của dịch vụ.
 
-<span style="display:block;text-align:center">![](/images/img-upgrade-cloud/upgrade_1.png)</span>
+<span style="display:block;text-align:center">![](/images/img-upgrade-cloud/screenshot_1.png)</span>
 
 Quý khách có thể lựa chọn giữa Cloud VPS và Cloud Server SSD cấu hình cao để phục vụ cho nhu cầu của mình
 
-<span style="display:block;text-align:center">![](/images/img-upgrade-cloud/upgrade_3.png)</span>
+<span style="display:block;text-align:center">![](/images/img-upgrade-cloud/screenshot_2.png)</span>
 
 Bước 2: Sau khi đã chọn được gói cấu hình phù hợp, hoặc cần tư vấn thêm từ đội ngũ kinh doanh của Cloud365, quý khách có thể liên hệ trực tiếp thông qua các kênh sau:
 
