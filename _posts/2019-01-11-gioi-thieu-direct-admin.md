@@ -25,7 +25,11 @@ Khi bạn là người quản trị website cho cá nhân bạn hay tổ chức,
 
 Admin là cấp cao nhất, có thể tạo các tài khoản Users, Resellers, Admin, có đầy đủ các quyền quản lý cũng như phần cấu hình trong máy chủ.
 
+Version 1.57.x
 ![](/images/img-da-cloud-app/Screenshot_709.png)
+
+Version 1.59.x
+![](/images/img-da-cloud-app/screenshot_1.png)
 
 + Tạo và thay đổi các tài khoản quản lý và đại lý.<br>
 + Gói dịch vụ: Tạo ra các gói tài nguyên cho các tài khoản đại lý và phân phối cho các tài khoản người dùng cuối.<br>
@@ -39,7 +43,11 @@ Admin là cấp cao nhất, có thể tạo các tài khoản Users, Resellers, 
 
 Resellers là cấp đại lý, có thể tại Users, phân phối tài nguyên và có các bảng điều khiển các user mình quản lý.
 
+Version 1.57.x
 ![](/images/img-da-cloud-app/Screenshot_710.png)
+
+Version 1.59.x
+![](/images/img-da-cloud-app/screenshot_2.png)
 
 + Mục đích sử dụng IP: Cài đặt IP trên máy chủ và quy định sử dụng IP cho các tìa khoản người dùng cuối thông qua các tùy chọn có sẵn do quản trị hệ thống quy định ( IP chia sẻ hay Ip riêng).<br>
 + Thống kê đối với tài khoản đại lý: Đại lý có thể xem thống kê đầu đủ tài nguyên sử dụng đối với tài khoản của mình và các khách hàng của mình, sắp xếp thông tin theo cá tình huống cần xử lý.<br>
@@ -52,7 +60,11 @@ Resellers là cấp đại lý, có thể tại Users, phân phối tài nguyên
 
 User là cấp quản lý hosting cho người dùng. Đây là mức thấp nhất trong DirectAdmin.
 
+Version 1.57.x
 ![](/images/img-da-cloud-app/Screenshot_711.png)
+
+Version 1.59.x
+![](/images/img-da-cloud-app/screenshot_3.png)
 
 + Email: Tạo các tải khoản Emai, thiết lập các rule cho email trên tất cả cá tên miền do tài khoản quản lý như chuyển tiếp, tự động trả lời, tự động từ chối, lọc, bản ghi MX, webmail.<br>
 + FTP: Tạo/sửa/xóa các tài khoản FTP<br>
@@ -74,9 +86,13 @@ Khi đăng ký sử dụng dịch vụ cloud server có kèm cloud app DirectAdm
 
 **Bạn sử dụng thông tin trong email để login và thao tác với DirectAdmin**
 
+Version 1.57.x
 ![](/images/img-da-cloud-app/Screenshot_707.png)
-
 ![](/images/img-da-cloud-app/Screenshot_708.png)
+
+Version 1.59.x
+![](/images/img-da-cloud-app/screenshot_4.png)
+![](/images/img-da-cloud-app/screenshot_5.png)
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
