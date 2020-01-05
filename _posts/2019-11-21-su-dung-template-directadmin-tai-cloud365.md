@@ -49,8 +49,12 @@ Sử dụng thông tin để đăng nhập và trang quản trị của DirectAd
 ```
 http://IP_VPS:2222
 ```
-
+ 
+Đối với DirectAdmin version 1.57.x giao diện hiển thị sẽ như sau 
 ![](/images/img-sudung-da-tai-cloud365/Screenshot_336.png)
+
+Riêng đối với `CentOS8` DA đã được cập nhật DirectAdmin version 1.59.1 sẽ có giao diện dashboard hiển thị như sau
+![](/images/img-sudung-da-tai-cloud365/DA-1.59.1.png)
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
