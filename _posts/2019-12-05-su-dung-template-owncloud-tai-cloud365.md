@@ -15,7 +15,7 @@ type: Document
 
 ## 1. Đăng ký mới sử dụng OwnCloud Cloud365
 
-OwnCloud được triển khai cài đặt trên rất nhiều bản phân phối của hệ điều hàn Linux như:
+OwnCloud được triển khai cài đặt trên rất nhiều bản phân phối của hệ điều hành Linux như:
 
 - Ubuntu 16.04 and 18.04
 - Debian 8 and 9
