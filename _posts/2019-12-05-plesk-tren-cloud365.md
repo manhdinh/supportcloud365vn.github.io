@@ -1,5 +1,5 @@
 ---
-date: 2019-01-25
+date: 2019-12-05
 title: Plesk tại Cloud365
 categories:
   - cloud-app
@@ -45,8 +45,6 @@ Bạn kiểm tra email để lấy thông tin.
 ![](/images/img-plesk/plesk-05.png)
 
 Bạn cũng có thể quản lý các thao tác khác đối với cloud server này trên giao diện Tham khảo sử dụng sử dụng  <a href="https://support.cloud365.vn/category/cloud-server/" target="_blank">portal</a>.
-
-![](/images/img-plesk/plesk-07.png)
 
 ## 1.2. Đăng nhập quản trị Plesk
 

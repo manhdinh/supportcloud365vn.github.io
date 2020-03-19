@@ -1,5 +1,5 @@
 ---
-date: 2019-08-01
+date: 2019-12-05
 title: Sử dụng template WHM control pannel tại Cloud365
 categories:
   - cloud-app
@@ -19,7 +19,7 @@ Tính năng và các thao tác vận hành cơ bản bạn có thể tham khảo
 
 `WHM control pannel` đã được đóng gói sẵn vào các template trên một số hệ điều hành như: `CentOS7.5-64bit`, `CentOS6-64bit`.
 
-![](/images/img-ls-su-dung-whm/Screenshot_339.png)
+![](/images/img-ls-su-dung-whm/screenshot.png)
 
 Khi bạn đã sử dụng các dịch vụ của các nhà cung cấp hosting khác nhưng không đạt được sử hài lòng, bạn chuyển sang cloud365 sử dụng có thể tham khảo lựa chọn <a href="https://nhanhoa.com/may-chu/may-chu-cloud-server.html" target="_blank">tại đây</a>!
 
@@ -29,7 +29,8 @@ Khi bạn đã sử dụng các dịch vụ của các nhà cung cấp hosting k
 
 Khi bạn đang sử dụng dịch vụ <a href="https://cloud365.vn/" target="_blank">cloud vps</a> bạn hoàn toàn có thể chủ động chuyển sang WHM control pannel phục vụ việc quản trị hosting của mình. Cloud365 đã phát triển tính năng <a href="https://support.cloud365.vn/video/huong-dan-rebuild-cloud-server-cloud365/" target="_blank">rebuild</a> trên <a href="https://portal.cloud365.vn/" target="_blank">portal</a> giúp khách hàng chủ động cài đặt lại hệ điều hành hoặc chuyển đổi sang hệ điều hành khác.
 
-![](/images/img-ls-su-dung-whm/Screenshot_341.png)
+![](/images/img-ls-su-dung-whm/screenshot_1.png)
+![](/images/img-ls-su-dung-whm/screenshot_1.png)
 
 ## 3. Login WHM control pannel
 

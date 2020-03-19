@@ -1,5 +1,5 @@
 ---
-date: 2019-08-01
+date: 2019-12-05
 title: Sử dụng template VestaCP tại Cloud365
 categories:
   - cloud-app
@@ -33,11 +33,11 @@ CentOS7.6 64bit + VestaCP
 
 Đối với những khách hàng đang sử dụng dịch cloud VPS nhưng đang là hệ điều hành trắng hoặc các control panel không phải là VestaCP thì có thể chủ động sử dụng tính năng <a href="https://support.cloud365.vn/video/huong-dan-rebuild-cloud-server-cloud365/" target="_blank">rebuild</a> trên <a href="https://portal.cloud365.vn/" target="_blank">portal</a> quản trị của khách hàng chuyển sang VestaCP để sử dụng.
 
-![](/images/img-vestacp/vesta_2.png)
+![](/images/img-vestacp/screenshot.png)
 
 - Lựa chọn template VestaCP:
 
-![](/images/img-vestacp/vesta_3.png)
+![](/images/img-vestacp/screenshot_1.png)
 
 **Lưu ý: máy ảo cần gói B trở lên và dữ liệu trên máy ảo sẽ bị xóa**
 

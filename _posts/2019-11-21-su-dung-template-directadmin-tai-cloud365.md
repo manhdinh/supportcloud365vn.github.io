@@ -16,14 +16,15 @@ type: Document
 
 ## 1. Đăng ký mới sử dụng DirectAdmin cloud365
 
-DirectAdmin được triển khai cài đặt trên rất nhiều bản phân phối của hệ điều hàn Linux như: `CentOS6.10-64bit, CentOS7.5-64bit, Ubuntu14.04-64bit, Ubuntu16.04-64bit, Ubuntu18.04-64bit`. Trên các nền tảng được hỗ trợ đội ngũ phát triển của <a href="https://cloud365.vn/" target="_blank">cloud365 </a>đã tạo ra các template DirectAdmin để phục vụ khách hàng.
+DirectAdmin được triển khai cài đặt trên rất nhiều bản phân phối của hệ điều hàn Linux như: `CentOS 6.10-64bit, CentOS 7.5-64bit, CentOS 8.0-64bit, Ubuntu14.04-64bit, Ubuntu16.04-64bit, Ubuntu18.04-64bit`. Trên các nền tảng được hỗ trợ đội ngũ phát triển của <a href="https://cloud365.vn/" target="_blank">cloud365 </a>đã tạo ra các template DirectAdmin để phục vụ khách hàng.
 
 ```
-CentOS6.10 64bit + DirectAdmin
-CentOS7.5 64bit + DirectAdmin
-Ubuntu14.04 64bit + DirectAdmin
-Ubuntu16.04 64bit + DirectAdmin
-Ubuntu18.04 64bit + DirectAdmin
+CentOS 6.10 64bit + DirectAdmin
+CentOS 7.5 64bit + DirectAdmin
+CentOS 8.0 64bit + DirectAdmin
+Ubuntu 14.04 64bit + DirectAdmin
+Ubuntu 16.04 64bit + DirectAdmin
+Ubuntu 18.04 64bit + DirectAdmin
 ```
 
 Đối với những khách hàng chưa sử dụng dịch vụ cloud VPS của cloud365 có thể đăng ký sử dụng gói cấu hình và lựa chọn các template DirectAdmin phù hợp với nhu cầu sử dụng của mình bạn tham khảo và lựa chọn <a href="https://nhanhoa.com/may-chu/may-chu-cloud-server.html" target="_blank">tại đây</a>!
@@ -48,8 +49,14 @@ Sử dụng thông tin để đăng nhập và trang quản trị của DirectAd
 ```
 http://IP_VPS:2222
 ```
+ 
+Đối với DirectAdmin version 1.57.x giao diện hiển thị sẽ như sau 
 
 ![](/images/img-sudung-da-tai-cloud365/Screenshot_336.png)
+
+Riêng đối với `CentOS8` DA đã được cập nhật DirectAdmin version 1.59.1 sẽ có giao diện dashboard hiển thị như sau
+
+![](/images/img-sudung-da-tai-cloud365/DA-1.59.1.png)
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
