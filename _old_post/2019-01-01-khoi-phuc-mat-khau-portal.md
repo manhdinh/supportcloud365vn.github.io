@@ -1,5 +1,5 @@
 ---
-date: 2019-11-20
+date: 2019-01-01
 title: Khôi phục mật khẩu portal
 categories:
   - account-settings
@@ -12,33 +12,35 @@ Nhân Hòa cung cấp cho bạn portal để quản trị cloud server của mì
 
 <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
 
-![](/images/img-lay-pass-portal/screenshot_2.png)
+![](/images/img-lay-pass-portal/Screenshot_587.png)
 
 ## Bước 2: Click `Quên mật khẩu`
 
-![](/images/img-lay-pass-portal/screenshot.png)
+![](/images/img-lay-pass-portal/Screenshot_588.png)
 
 ## Bước 3: Nhập email của bạn
 
 **Lưu ý: Bạn nhập đúng email sử dụng đăng ký portal.**
 
-![](/images/img-lay-pass-portal/screenshot_1.png)
+![](/images/img-lay-pass-portal/Screenshot_589.png)
 
-![](/images/img-lay-pass-portal/screenshot_3.png)
+![](/images/img-lay-pass-portal/Screenshot_590.png)
 
 ## Bước 4: Truy cập email để lấy link thay đổi mật khẩu.
 
-![](/images/img-lay-pass-portal/screenshot_4.png)
+![](/images/img-lay-pass-portal/Screenshot_591.png)
+
+![](/images/img-lay-pass-portal/Screenshot_592.png)
 
 ## Bước 5: Nhập mật khẩu mới của bạn
 
 Lưu ý: Bạn có thể đặt password cá nhân và phải tuân thủ chính sách về password (độ dài tối thiểu 8 ký tự, 1 ký tự hoa, 1 thường, 1 số).
 
-![](/images/img-lay-pass-portal/screenshot_5.png)
+![](/images/img-lay-pass-portal/Screenshot_593.png)
 
-![](/images/img-lay-pass-portal/screenshot_6.png)
+![](/images/img-lay-pass-portal/Screenshot_594.png)
 
-Quá trình lấy lại mật khẩu portal hoàn tất. Đăng nhập lại với tài khoản và mật khẩu mới.
+Quá trình lấy lại mật khẩu portal hoàn tất.
 
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>

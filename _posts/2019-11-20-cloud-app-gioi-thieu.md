@@ -1,23 +1,32 @@
 ---
 date: 2019-11-20
-title: Giới thiệu về cloud App
+title: Giới thiệu về Cloud App
 categories:
   - cloud-app
-description: Các tính năng của cloud application
+description: Dùng Cloud App - không lo phụ thuộc - tiết kiệm thời gian - trải nghiệm đa dạng
 type: Document
 ---
 Mô tả dịch vụ cloud application tại `cloud365`
 
 ## Cloud application là gì ?
-Là một hình thức nâng cao của dịch vụ `cloud server`. Dịch vụ này cung cấp các app được đóng gói sẵn hoặc app tự động cài đặt khi người dùng đăng ký sử dụng. Đây là dịch vụ được đặt tên bởi nhà cung cấp dịch vụ và nằm trong hệ sinh thái điện toán đám mây của `cloud365`.
+Mục tiêu cuối cùng của khách hàng khi sử dụng các VPS là việc có môi trường để triển khai các ứng dụng như web, database ...Tuy nhiên ở một số nhà cung cấp  thì việc này có thể bị kéo dài bởi quá trình tương tác với nhà cung cấp hoặc phải tự mình cài đặt sẽ khiến bạn mất nhiều thời gian.
+
+Chưa kể, việc am hiểu ứng dụng để có những thiết lập chính xác đôi khi khiến bạn phải mất thời gian là vài ngày, thậm chí kéo dài cả tuần làm việc.
+
+Chính vì những điều này mà dịch vụ Cloud365  của Nhân Hòa đã trang bị sẵn các hệ điều hành có chứa các ứng dụng (hay còn gọi là Cloud App) được kiểm nghiệm, đóng gói ngay trên chính portal của khách hàng. 
 
 ## Lợi ích của khi sử dụng cloud application
+Các điểm nổi trội của Cloud App tại dịch vụ Cloud365 bao gồm:
 
-+ Các app đã được đóng gói sẵn và tối ưu các cấu hình để mang lại hiệu quả cao khi sử dụng. <br>
-+ Một số app sẽ được tự động cài đặt để tiết kiệm thời gian cho người sử dụng, ví dụ như: DirectAdmin, Plesk, WHM, Wordpress, SQL server, LAMP, LEMP, PHP, MySQL, Nginx.
-+ Tự động gửi thông tin quản trị cho khách hàng sau khi cài đặt thành công.<br>
-+ Thông tin mật khẩu cho cloud application tuân thủ chính sách mật khẩu mạnh.<br>
-+ Khách hàng có thể chủ động chuyển đổi giữa các cloud application khác nhau trong chính sách cho phép.
+ - Tiết kiệm thời gian khởi tạo các ứng dụng, kể cả các ứng dụng của Windows.
+ - Tự động gửi tài khoản của máy ảo, tài khoản của ứng dụng về email người dùng.
+ - Hỗ trợ các ứng dụng trên cả hệ điều hành Windows và Linux.
+ - Khách hàng có thể chủ động chuyển đổi giữa các cloud application khác nhau trong chính sách cho phép.
+
+Ngoài các điểm nổi trội này, KHG còn có thể trải nghiệm tốc độ khởi tạo thực sự của Cloud App thông qua portal (link tới trang portal.cloud365.vn) nhờ vào tính năng rebuild (tính năng cài đặt lại các hệ điều hành). Video hướng dẫn rebuild hệ điều hành tại đây (https://support.cloud365.vn/video/huong-dan-rebuild-cloud-server-cloud365/)
+
+Hiện nay Nhân Hòa đang tiếp tục tạo những hệ điều hành chứa ứng dụng mới để phục vụ khách hàng, trong thời gian tới Nhân Hòa sẽ cho phép khách hàng tự tạo các hệ điều hành có chứa ứng dụng và cùng chia sẻ.
+
 ---
 <a href="https://cloud365.vn/" target="_blank">cloud365.vn</a>
 

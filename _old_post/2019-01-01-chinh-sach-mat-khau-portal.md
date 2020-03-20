@@ -1,5 +1,5 @@
 ---
-date: 2019-11-20
+date: 2019-01-01
 title: Chính sách mật khẩu portal
 categories:
   - Policy
@@ -12,6 +12,7 @@ Tài khoản portal của dịch vụ cloud365 được cung cấp dành cho kh�
 - Có độ dài từ 08 ký tự trở lên
 - Có ít nhất một ký tự viết hoa
 - Có chứa ít nhất một ký tự số
+- Có chứa ít nhất một ký tự đặc biệt.
 ```
 
 ---

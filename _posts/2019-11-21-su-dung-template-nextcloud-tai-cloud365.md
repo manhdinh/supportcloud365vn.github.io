@@ -10,7 +10,8 @@ type: Document
 `Nextcloud` một phiên bản mở rộng từ `Owncloud` cung cấp cho người dùng một bộ phần mềm bao gồm cả client và server để tạo các dịch vụ lưu trữ tập tin và cho phép người dùng sử dụng chúng. `Nextcloud` có chức năng rất giống với Dropbox dành cho thị trường phổ thông, được sử dụng rộng rãi bởi hàng triệu người dùng, sự khác biệt chính ở chỗ là mã nguồn mở, cho phép bất cứ ai cũng có thể cài đặt và vận hành nó mà không phải trả phí cho người khác.
 
 <p align="center">
-<img src="/images/img-nextcloud/nextcloud-001.png">
+
+![](/images/img-nextcloud/nextcloud-001.png)
 </p>
 
 ## 1. Đăng ký mới sử dụng Nextcloud Cloud365
@@ -37,7 +38,8 @@ Ubuntu18.04 64bit + Nextcloud
 Đối với những khách hàng chưa sử dụng dịch vụ cloud VPS của cloud365 có thể đăng ký sử dụng gói cấu hình và lựa chọn template Nextcloud phù hợp với nhu cầu sử dụng của mình <a href="https://nhanhoa.com/may-chu/may-chu-ao-vps.html" target="_blank">tại đây</a>!
 
 <p align="center">
-<img src="/images/img-nextcloud/nextcloud-002.jpg">
+
+![](/images/img-nextcloud/nextcloud-002.jpg)
 </p>
 
 ## 2. Chuyển đổi sử dụng template Nextcloud từ một máy có sẵn:
@@ -45,13 +47,15 @@ Ubuntu18.04 64bit + Nextcloud
 Đối với những khách hàng đang sử dụng dịch cloud VPS của cloud365 thì có thể chủ động sử dụng tính năng <a href="https://support.cloud365.vn/video/huong-dan-rebuild-cloud-server-cloud365/" target="_blank">rebuild</a> trên <a href="https://portal.cloud365.vn/" target="_blank">portal</a> quản trị của khách hàng chuyển sang Nextcloud để sử dụng.
 
 <p align="center">
-<img src="/images/img-nextcloud/screenshot_1.png">
+
+![](/images/img-nextcloud/screenshot_1.png)
 </p>
 
 - Lựa chọn template Nextcloud:
 
 <p align="center">
-<img src="/images/img-nextcloud/screenshot.png">
+
+![](/images/img-nextcloud/screenshot.png)
 </p>
 
 
@@ -62,19 +66,22 @@ Ubuntu18.04 64bit + Nextcloud
 Sau khi đăng ký sử dụng hoặc chuyển đổi thành công sang template Nextcloud bạn sẽ nhận được thông tin đăng nhập VPS, thông tin đăng nhập Nextcloud gửi vào email đăng ký của bạn. 
 
 <p align="center">
-<img src="/images/img-nextcloud/nextcloud-007.png">
+
+![](/images/img-nextcloud/nextcloud-007.png)
 </p>
 
 Sử dụng thông tin để đăng nhập và trang quản trị của Nextcloud.
 
 <p align="center">
-<img src="/images/img-nextcloud/nextcloud-005.png">
+
+![](/images/img-nextcloud/nextcloud-005.png)
 </p>
 
 Ở đây bạn hoàn toàn có thể chủ động thao tác quản trị Cloud lưu trữ dữ liệu riêng của mình của mình.
 
 <p align="center">
-<img src="/images/img-nextcloud/nextcloud-006.png">
+
+![](/images/img-nextcloud/nextcloud-006.png)
 </p>
 
 ## 4. Sử dụng các client để kết nối vào Nextcloud

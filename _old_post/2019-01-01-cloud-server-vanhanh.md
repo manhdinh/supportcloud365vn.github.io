@@ -1,5 +1,5 @@
 ---
-date: 2019-11-20
+date: 2019-01-04
 title: Vận hành cloud server
 categories:
   - cloud-server
@@ -7,17 +7,7 @@ description: Vận hành cloud server
 type: Document
 ---
 
-Dịch vụ máy chủ ảo Cloud server trên hệ thống Cloud365 của Nhân Hòa cung cấp các tính năng tiện ích, hỗ trợ người dùng sử dụng và vận hành hệ thống dễ dàng.
-
-Việc thực hiện quản trị, vận hành cloud server của mình qua portal do Nhân Hòa phát triển. Các tính năng quản trị máy chủ bao gồm : 
- - Giám sát tài nguyên sử dụng : RAM, Disk, CPU, Disk I/O
- - Quản lý máy ảo qua Remote Console
- - Quản lý nhật ký máy ảo
- - Quản lý mật khẩu máy ảo
- - Điều khiển máy ảo : Start, Stop, Restart.
- - Rebuild hệ điều hành. 
-
- Chi tiết về các tính năng được thực hiện theo hướng dẫn ở dưới.
+Bạn đăng ký sử dụng dịch vụ cloud server của Nhân Hòa. Bạn sẽ thực hiện quản trị, vận hành cloud server của mình qua portal do Nhân Hòa phát triển. Thực hiện một số thao tác vận hành cloud server như giám sát các thông số (RAM, Disk, CPU. Disk I/O), remote, quản lý mật khẩu, điểu khiển cloud server (Start, Stop, Restart, Pause, Resume), rebuild hệ điều hành cloud server. Chi tiết vận hành bạn thực hiện theo hướng dẫn ở dưới.
 
 
 ### Mục lục
@@ -48,28 +38,28 @@ Sau khi nhận được thông tin cloud server tùy thuộc vào cloud server c
 
 <a href="https://support.cloud365.vn/account-settings/dang-nhap-portal/" target="_blank">Đăng nhập</a> portal tại địa chỉ <a href="https://portal.cloud365.vn/" target="_blank">https://portal.cloud365.vn/</a>
 
-+ Click `Server`
++ Click `Danh sách server`
 
-![](/images/img-vanhanh-vps/screenshot_5.png)
+![](/images/img-vanhanh-vps/Screenshot_202.png)
 
 + Click vào tên cloud server cần xem thông tin
 
-![](/images/img-vanhanh-vps/screenshot.png)
+![](/images/img-vanhanh-vps/Screenshot_247.png)
 
-Bạn lựa chọn thực hiện 1 trong các chức năng: **thông tin, giám sát, nhật ký, quản lý mật khẩu** theo hướng dẫn ở dưới để vận hành cloud server của mình.
+Bạn lựa chọn thực hiện 1 trong các chức năng: **giám sát, remote, điều khiển, log, quản lý mật khẩu, quản lý máy ảo** theo hướng dẫn ở dưới để vận hành cloud server của mình.
 
 <a name="giamsatmayao"></a>
 ## 2. Giám sát cloud server
 
-Chức năng giám sát cho phép bạn giám giát tổng quan về cloud server RAM, DISK, CPU, Network theo cơ chế real time và có khả năng chọn khoảng thời gian view các metric (3 giờ, 6 giờ, 12 giờ, 24 giờ, 7 ngày, 30 ngày).
+Chức năng giám sát cho phép bạn giám giát tổng quan về cloud server RAM, DISK, CPU, Network theo cơ chế real time và có khả năng chọn khoảng thời gian view các metric (3 giờ, 6 giờ, 12 giờ, 24 giờ, 7 ngày).
 
 + Click `Giám sát` -> Lựa chọn khoảng thời gian hiển thị
 
-![](/images/img-vanhanh-vps/screenshot_1.png)
+![](/images/img-vanhanh-vps/Screenshot_248.png)
 
 + Thông tin về RAM, Disk, CPU, Network
 
-![](/images/img-vanhanh-vps/screenshot_2.png)
+![](/images/img-vanhanh-vps/Screenshot_249.png)
 
 <a name="consolemayao"></a>
 ## 3. Truy cập remote cloud server
@@ -78,29 +68,29 @@ Chức năng remote cloud server cho phép bạn truy cập vào cloud server c�
 
 + Click `Truy cập`
 
-![](/images/img-vanhanh-vps/screenshot_3.png)
+![](/images/img-vanhanh-vps/Screenshot_250.png)
 
 + Hiển thị giao diện remote
 
-![](/images/img-vanhanh-vps/screenshot_4.png)
+![](/images/img-vanhanh-vps/Screenshot_251.png)
 
 <a name="statusmayao"></a>
 ## 4. Điều khiển trạng thái cloud server
 
-Chức năng điều khiển cloud server cho phép bạn điều khiển cloud server của mình. Có các trạng thái như : Bật máy chủ ảo tương ứng với biểu tượng `Start`, khởi động lại máy ảo tương ứng với `Restart`, Tắt máy chủ tương ứng với `Stop`, Đổi tên máy chủ và Cài lại máy chủ tương ứng với `Rebuild`.
+Chức năng điều khiển cloud server cho phép bạn điều khiển cloud server của mình. Có các trạng thái như : Bật máy chủ ảo tương ứng với biểu tượng `Start`, tạm ngưng sử dụng tương ứng với `Pause`, muốn tiếp tục sử dụng sử dụng `Resume` tuy nhiên Resume chỉ được sử dụng khi máy chủ đang ở trạng thái tạm ngưng, khởi động lại máy ảo tương ứng với `Restart`, Tắt máy chủ tương ứng với `Stop`.
 
 + Click biểu tượng điều khiển
 
-![](/images/img-vanhanh-vps/screenshot_6.png)
+![](/images/img-vanhanh-vps/Screenshot_252.png)
 
 <a name="logVPS"></a>
-## 5. Quản lý nhật ký máy ảo
+## 5. Xem log hành động đối với cloud server
 
-Chức năng Nhật ký cho phép bạn theo dõi  thao tác với cloud server (tạo, stop, start)
+Chức năng Log cho phép bạn theo dõi  thao tác với cloud server (tạo, stop, start)
 
-+ Click `Nhật ký`
++ Click `Log`
 
-![](/images/img-vanhanh-vps/screenshot_7.png)
+![](/images/img-vanhanh-vps/Screenshot_253.png)
 
 <a name="matkhauVPS"></a>
 ## 6. Quản lý mật khẩu cloud server
@@ -111,11 +101,11 @@ Chức năng quản lý mật khẩu cho phép bạn đổi password mới một
 
 Chỉ định mật khẩu theo ý của bạn (Lưu ý: Mật khẩu cần có ít nhất 8 ký tự bao gồm 1 ký tự thường, 1 ký tự hoa, 1 số. )
 
-![](/images/img-vanhanh-vps/screenshot_8.png)
+![](/images/img-vanhanh-vps/Screenshot_254.png)
 
 Auto generate password
 
-![](/images/img-vanhanh-vps/screenshot_9.png)
+![](/images/img-vanhanh-vps/Screenshot_255.png)
 
 <a name="rebuildVPS"></a>
 ## 7. Rebuid cloud server
@@ -124,9 +114,9 @@ Chức năng Rebuild là tính năng cho phép thay đổi hệ điều hành c�
 
 Lưu ý: Khi rebuild dữ liệu ổ cứng sẽ không được giữ lại. Máy chủ sẽ chạy với hệ điều hành mà bạn xác nhận lựa chọn để rebuild.<br>Bạn có thể rebuil sang hệ điều hành Windows, Linux trắng và Linux có cài đặt ứng dụng (Plesk, Direct Admin, WHM).<br>Bạn không thể rebuil sang hệ điều hành Windows server có cài đặt ứng dụng.
 
-+ Click `Rebuild`
++ Click `Quản lý máy ảo`
 
-![](/images/img-vanhanh-vps/screenshot_10.png)
+![](/images/img-vanhanh-vps/Screenshot_256.png)
 
 + Lựa chọn hệ điều hành muốn rebuild sang
 
@@ -136,9 +126,11 @@ OS cloud server trước khi rebuild
 
 Chọn hệ điều hành và xác nhận rebuild
 
-![](/images/img-vanhanh-vps/screenshot_11.png)
+![](/images/img-vanhanh-vps/Screenshot_258.png)
 
-Xác nhận và chờ quá trình rebuild VPS hoàn tất.
+Xác nhận và chờ quá trình rebuil VPS hoàn tất.
+
+![](/images/img-vanhanh-vps/Screenshot_259.png)
 
 + Rebuild thành công bạn sẽ nhận được thông báo qua email
 

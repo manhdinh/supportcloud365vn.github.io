@@ -1,5 +1,5 @@
 ---
-date: 2019-11-20
+date: 2019-01-01
 title: Chính sách mật khẩu cloud server
 categories:
   - Policy
@@ -15,6 +15,7 @@ Các chính sách này được áp dụng để đảm bảo an toàn cho máy 
 - Có độ dài từ 08 ký tự trở lên
 - Có chứa ít nhất một ký tự viết hoa
 - Có chứa ít nhất một ký tự số
+- Có chứa ít nhất một ký tự đặc biệt.
 ```
 
 Người dùng lưu ý khi đổi mật khẩu cần đảm bảo đáp ứng chính sách ở trên khi chủ động thay đổi.
